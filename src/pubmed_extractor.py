@@ -164,7 +164,7 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Saved {len(articles)} articles to '{OUTPUT_FILE}'")
+    print(f" Saved {len(articles)} articles to '{OUTPUT_FILE}'")
 
 
 # =============================
