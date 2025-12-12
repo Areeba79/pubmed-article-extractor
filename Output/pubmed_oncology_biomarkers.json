@@ -1,0 +1,2153 @@
+Total articles: 50
+
+================================================================================
+ARTICLE 1
+================================================================================
+{'abstract': 'Mounting evidence indicates that periodontitis may play a '
+             'contributory role in the pathogenesis of systemic diseases, '
+             'including cancer, primarily through mechanisms involving chronic '
+             'inflammation and immune dysregulation. Nonetheless, the specific '
+             'immunoinflammatory pathways that underpin the relationship '
+             'between periodontitis and solid tumors remain only partially '
+             'elucidated. To conduct a systematic review of original clinical '
+             'studies that examine the immunoinflammatory mechanisms '
+             'potentially linking periodontitis with the initiation or '
+             'progression of solid malignancies. Adhering to the Preferred '
+             'Reporting Items for Systematic Reviews and Meta-Analyses '
+             '(PRISMA) 2020 framework, we conducted a comprehensive literature '
+             'search across four major databases (PubMed, Scopus, Web of '
+             'Science, and Embase) through March 2025. Eligible studies were '
+             'limited to original human research that investigated the '
+             'association between periodontitis and solid tumors with an '
+             'emphasis on immunological or inflammatory biomarkers. Following '
+             'a rigorous screening process, 19 studies met the inclusion '
+             'criteria and were analyzed. A consistent body of evidence across '
+             'the included studies suggests a significant association between '
+             'periodontitis and heightened risk or severity of various solid '
+             'tumors, notably colorectal, pancreatic, lung, prostate, and '
+             'breast cancers. Common immunoinflammatory signatures observed '
+             'among affected individuals included elevated systemic levels of '
+             'cytokines, such as IL-6 and TNF-α, altered immune cell profiles '
+             'characterized by increased regulatory T-cells, and evidence of '
+             'microbial translocation involving pathogens, including\xa0',
+ 'authors': ['Houda El Ayachi', 'Imad Barjij', 'Amine Cherkaoui'],
+ 'journal': 'Cureus',
+ 'pmid': '41384174',
+ 'publication_date': '2025-Nov',
+ 'title': 'Immunoinflammatory Mechanisms Connecting Periodontitis and Solid '
+          'Tumors: A Systematic Review of Original Evidence.'}
+
+================================================================================
+ARTICLE 2
+================================================================================
+{'abstract': 'Pancreatic cancer (PC) is highly refractory to most treatments. '
+             'Multimodal treatment, combining several types of therapies, is '
+             'likely to benefit PC patients. However, it remains unclear which '
+             'multimodal treatment is most effective and how to predict '
+             'outcomes from different combinations. This study compared '
+             'overall survival among PC patients receiving chemotherapy alone '
+             '(C), immunotherapy combined with chemotherapy (CI), radiotherapy '
+             'combined with chemotherapy (CR), and triple-combination therapy '
+             '(CRI). A machine learning-based predictive model between '
+             'monomodal and multimodal therapy was established using 3 years '
+             'of clinical follow-up data. We retrospectively analyzed 125 '
+             "cases of PC patients treated at Yixing People's Hospital from "
+             'January 2014 to June 2024 (C,  Multimodal treatments '
+             'significantly improved PC prognosis ( PC patients may benefit '
+             'from more intensive multimodal therapies, which provides novel '
+             'insights into predicting PC survival prognosis and highlights '
+             'the potential of machine learning in biomarker identification '
+             'and disease prognosis.',
+ 'authors': ['Lingling Fan',
+             'Shujing Kong',
+             'Yizhou Deng',
+             'Yunfan Wang',
+             'Xiancheng Yan',
+             'Chao Jiang',
+             'Li Tao',
+             'Weimin Wang'],
+ 'journal': 'Frontiers in medicine',
+ 'pmid': '41384105',
+ 'publication_date': '2025',
+ 'title': 'Compare the prognosis of pancreatic cancer patients with different '
+          'treatment modalities and use machine learning methods to build '
+          'predictive models.'}
+
+================================================================================
+ARTICLE 3
+================================================================================
+{'abstract': 'Glioma is the most common malignant tumor in the central nervous '
+             'system, with unclear pathogenesis and poor treatment outcomes. '
+             'Recent research reveals that the brain-gut axis-involving gut '
+             'microbiota and immune activity-influences central nervous system '
+             'tumors. Given the pivotal role of the brain-gut axis in glioma, '
+             'our study aimed to elucidate the causal association between gut '
+             'microbiota and glioma, and to identify potential immune-mediated '
+             'effects and therapeutic targets. Based on publicly available '
+             'genome-wide association study data, our research employed '
+             'multi-subgroup, replicated, Bayesian weighted, and summary '
+             'statistics-based two-sample Mendelian randomization (MR) '
+             'studies, combined with the Preferred Reporting Items for '
+             'Systematic Reviews and Meta-Analyses (PRISMA) systematic review '
+             'strategy, to systematically evaluate the potential causal '
+             'effects of gut microbiota on glioma and their immune-mediated '
+             'traits. The initial screening identified 53 gut microbiota and '
+             '58 plasma immune traits with potential causal associations with '
+             'glioma. Through external data and systematic review from six '
+             'studies, we ultimately confirmed five gut microbiota-plasma '
+             'immune trait-glioma pathways. CD28 Our study, through MR '
+             'analysis, revealed the causal relationship between gut '
+             'microbiota and the susceptibility to glioma, and for the first '
+             'time proposed the important role of circulating immune cells in '
+             'this process, providing new potential biomarkers for the early '
+             'diagnosis and treatment of glioma.',
+ 'authors': ['Jiachen Wang',
+             'Yilin Zhang',
+             'Zhuang Kang',
+             'Shenglan Li',
+             'Rong Zhang',
+             'Mengqian Huang',
+             'Chengzhuo Wang',
+             'Yuxiang Fan',
+             'Xinrui Liu',
+             'Yuxiao Chen',
+             'Tingrui Han',
+             'Yuji Wang',
+             'Wenbin Li'],
+ 'journal': 'Cancer innovation',
+ 'pmid': '41384027',
+ 'publication_date': '2025-Dec',
+ 'title': 'Bidirectional Causal Effect Between Gut Microbiota and Glioma Risk: '
+          'A Systematic Review-Based Mendelian Randomization and '
+          'Immune-Mediated Effect Analysis.'}
+
+================================================================================
+ARTICLE 4
+================================================================================
+{'abstract': 'Liquid biopsy offers a minimally invasive approach for cancer '
+             'diagnosis by detecting circulating biomarkers, such as microRNAs '
+             '(miRNAs), in different types of specimens. The present study '
+             'aimed to identify the most effective specimen for miRNA '
+             'detection in cervical cancer precursor lesions by comparing '
+             'plasma, urine and liquid-based cytology (LBC). A total of 798 '
+             'miRNAs were analyzed using NanoString technology in 24 women, '
+             'equally divided between those with high-grade cervical '
+             'intraepithelial neoplasia (2/3) and controls with negative Pap '
+             'and human papillomavirus tests. Comparative analyses revealed '
+             'that LBC exhibited the highest detection efficiency, with only '
+             '1.75% of miRNAs demonstrating low counts, compared with 20.68% '
+             'in plasma and 15.79% in urine. Additionally, LBC exhibited 21.3% '
+             'of miRNAs above the 9th decile of expression, compared with '
+             '5.89% in plasma and 2.88% in urine. LBC revealed the most '
+             'consistent detection performance across samples, establishing '
+             'its potential as the most effective specimen for detecting '
+             'cervical cancer precursor lesions biomarkers. Plasma also showed '
+             'promise as a detection medium, whilst urine exhibited higher '
+             'variability and lower detection consistency. In conclusion, LBC '
+             'demonstrated the highest efficacy for miRNA detection among the '
+             'specimen types tested. Plasma remains a viable alternative, '
+             'whilst urine presents challenges due to its inherent '
+             'variability. These results underscore the importance of specimen '
+             'selection for optimizing diagnostic sensitivity in cervical '
+             'cancer precursor lesions screening.',
+ 'authors': ['Stéphanie Calfa',
+             'Ana Julia Aguiar De Freitas',
+             'Welinton Hirai',
+             'Júlio César Possati-Resende',
+             'Rhafaela Lima Causin',
+             'Ricardo Dos Reis',
+             'Rui Manuel Reis',
+             'Márcia Maria Chiquitelli Marques'],
+ 'journal': 'Oncology letters',
+ 'pmid': '41383976',
+ 'publication_date': '2026-Feb',
+ 'title': 'Comparative evaluation of microRNA detection in plasma, urine and '
+          'liquid-based cytology for high-grade cervical intraepithelial '
+          'neoplasia.'}
+
+================================================================================
+ARTICLE 5
+================================================================================
+{'abstract': 'This study aimed to investigate the relationship between the '
+             'expression levels of Leukocyte Immunoglobulin-Like Receptor '
+             'Subfamily B2 (LILRB2) and Apurinic/Apyrimidinic Endonuclease 1 '
+             '(APE1) and the pathological characteristics in colorectal cancer '
+             '(CRC) patients, as well as their predictive value for prognosis. '
+             'Serum levels of LILRB2 and APE1 were analyzed in CRC patients '
+             'with varying pathological characteristics. The associations '
+             'between LILRB2 and APE1 serum levels and patient prognosis was '
+             'evaluated, and factors influencing prognosis were identified. '
+             'Patients with high LILRB2 expression exhibited a significantly '
+             'lower survival rate than those with low expression, and the same '
+             'trend was observed for APE1 expression (both  Abnormal '
+             'expression levels of LILRB2 and APE1 are associated with age, '
+             'tumor diameter, TNM stage, and LNM in CRC patients. Elevated '
+             'expression of these markers predicts a poorer prognosis.',
+ 'authors': ['Ji Li', 'Xiaofang Tang', 'MianYong Wu', 'JinMing Tu'],
+ 'journal': 'Frontiers in cellular and infection microbiology',
+ 'pmid': '41383852',
+ 'publication_date': '2025',
+ 'title': 'Relationship between LILRB2 and APE1 levels and pathological '
+          'characteristics in colorectal cancer patients and their predictive '
+          'value for prognosis.'}
+
+================================================================================
+ARTICLE 6
+================================================================================
+{'abstract': 'Lung adenocarcinoma (LUAD) is a leading cause of cancer-related '
+             'mortality. Protein succinylation, a key post-translational '
+             'modification, is implicated in tumor progression. However, its '
+             'comprehensive landscape and clinical significance in LUAD remain '
+             'largely unexplored. We integrated multi-omics data from The '
+             'Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) '
+             'cohorts. A set of core succinylation-related genes was '
+             'identified through differential expression and univariable Cox '
+             'regression analyses. Molecular subtypes based on succinylation '
+             'were determined by principal component analysis (PCA). A '
+             'succinylation prognostic model was constructed via least '
+             'absolute shrinkage and selection operator (LASSO) and '
+             'multivariable Cox regression. The differences of tumor '
+             'microenvironment (TME), tumor mutation burden and drug '
+             'sensitivity in different risk groups were further explored. '
+             'Single-cell RNA sequencing (scRNA-seq) and spatial '
+             'transcriptomics revealed effects of succinylation on TME. '
+             'High-dimensional weighted gene co-expression networks analysis '
+             '(hdWGCNA) was used to identify potential succinylation-related '
+             'therapeutic targets. The function of therapeutic targets was '
+             'further validated through scRNA-seq, spatial transcriptomics, '
+             'and  We identified 31 core succinylation-related genes and '
+             'defined three molecular subtypes with distinct prognostic and '
+             'TME characteristics. A robust 7-gene succinylation-based '
+             'prognostic signature was developed and validated across 7 '
+             'independent GEO cohorts, effectively stratifying patients into '
+             'high- and low-risk groups with significant differences in '
+             'survival, demonstrating high predictive accuracy, consistency, '
+             'and clinical utility. The low-risk group exhibited an '
+             'immunoreactive TME with enhanced immune cell infiltration and '
+             'superior response to immunotherapy. scRNA-seq and spatial '
+             'transcriptomics revealed enhanced succinylation in LUAD. '
+             'Kallikrein-related peptidase 6 (KLK6) was identified as a '
+             'potential therapeutic target. KLK6 was significantly upregulated '
+             'in LUAD, correlated with poor prognosis and therapy resistance. '
+             'KLK6 promoted global succinylation, proliferation, migration, '
+             'and invasion of LUAD cells  Our study delineates the '
+             'succinylation landscape in LUAD, establishes a novel prognostic '
+             'model for risk stratification and immunotherapy prediction. '
+             'Meanwhile, we identified KLK6 as a potential promoter of tumor '
+             'progression and immunosuppression. Targeting the succinylation '
+             'pathway, particularly KLK6, may represent a promising '
+             'therapeutic strategy for LUAD.',
+ 'authors': ['Jichang Liu',
+             'Xuehan Zhu',
+             'Chenlong Zha',
+             'Jiaqi Ding',
+             'Chuanpeng Zhang',
+             'Yizhe Wang',
+             'Tao Yan',
+             'Hui Kong',
+             'Yong Liu',
+             'Jingyu Chen'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383634',
+ 'publication_date': '2025',
+ 'title': 'Succinylation heterogeneity in lung adenocarcinoma: from prognostic '
+          'model to KLK6-driven tumor microenvironment remodeling.'}
+
+================================================================================
+ARTICLE 7
+================================================================================
+{'abstract': 'The most aggressive type of skin cancer, melanoma, has a high '
+             'prevalence of metastases and a poor prognosis. Despite '
+             'advancements in treatment, drug resistance and tumor '
+             'microenvironment heterogeneity, especially involving '
+             'neuro-immune interactions, continue to exist. The goal of this '
+             'study is to uncover the cellular heterogeneity of melanoma in '
+             'order to pinpoint molecular targets and tumor-promoting '
+             'subtypes. Melanoma single-cell RNA sequencing data came from '
+             'GEO. Twelve cell types were discovered after Harmony batch '
+             'effect adjustment and Seurat quality control; melanoma cells '
+             'were subtyped. Functional expression of differential genes was '
+             'examined using gene ontology and gene set enrichment. Cytotrace '
+             'measured subtype differentiation potency. PySCENIC revealed '
+             'transcription factor regulatory networks, and CellChat predicted '
+             'intercellular communication between malignant cell subtypes and '
+             'other cell types. Functional experiments with A375 and MEWo cell '
+             'lines-lentiviral shRNA knockdown, CCK-8 proliferation, wound '
+             'healing, transwell migration, and flow cytometry apoptotic '
+             'assays-confirmed the analysis. Single-cell RNA sequencing was '
+             'utilized to analyze melanoma cell subtypes and their '
+             'interactions in the tumor microenvironment. C2  We identified '
+             'immunoregulatory C2 ',
+ 'authors': ['Wenjia Ge',
+             'Ziwei Zhang',
+             'Wenjie Chen',
+             'Zhijie Zhao',
+             'Huabao Cai',
+             'Yantao Ding',
+             'Jin Xu'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383633',
+ 'publication_date': '2025',
+ 'title': 'Single-cell transcriptomics identifies FOSL1-regulated IGFBP3+ '
+          'melanoma subtype as a neuro-immunoregulatory signaling hub '
+          'facilitating tumor progression.'}
+
+================================================================================
+ARTICLE 8
+================================================================================
+{'abstract': 'The progression of endometrial cancer (EC) is significantly '
+             'affected by the inflammatory microenvironment (IME), which is '
+             'essential for facilitating immune evasion and developing '
+             'resistance to therapeutic interventions. Components that promote '
+             'immune suppression, such as regulatory T cells (Tregs), '
+             'macrophages associated with tumors (TAMs), cytokines like '
+             'interleukin-10 (IL-10) and transforming growth factors-beta '
+             '(TGF-β), are crucial in establishing a favorable '
+             'microenvironment for tumor growth. TAMs with a M2-like phenotype '
+             'promote angiogenesis and inhibit antitumor immunity through the '
+             'secretion pro-tumorigenic factor. Further, metabolic shifts in '
+             'the extracellular matrix and structural modifications of the '
+             'extracellular matrix (ECM) inhibit the infiltration of cytotoxic '
+             'T lymphocytes (CTLs), thereby strengthening mechanisms of immune '
+             'evasion. Inflammatory signaling pathways, such as '
+             'interleukin-6/janus kinase/signal transducer and activator of '
+             'transcription 3 (IL-6/JAK/STAT3) and NF-κB/tumor necrosis '
+             'factor-alpha (TNF-α/NF-κB), also stimulate the expression immune '
+             'checkpoint molecules, such as programmed cell death protein 1 '
+             '(PD-1). Novel interventions aimed at modulating immune '
+             'checkpoints, inhibiting TGF-β signaling, and altering metabolic '
+             'circuits are under investigation and offer potential to '
+             'counteract immune suppression and enhance therapeutic success. '
+             'Nevertheless, significant obstacles remain, including '
+             'intratumoral heterogeneity, fluctuating immune dynamics, and the '
+             'absence of dependable biomarkers. Advancements in single-cell '
+             'analysis and spatial transcriptomics are anticipated to unveil '
+             'actionable molecular patterns and support the development of '
+             'individualized strategies to interrupt immune evasion and '
+             'therapeutic resistance in EC. These advances offer promise for '
+             'personalized immunotherapy approaches that could significantly '
+             'improve outcomes in endometrial cancer patients.',
+ 'authors': ['Zhaoping Tan',
+             'Binyue Sheng',
+             'Lu Chen',
+             'Hong Dong',
+             'Yaqin Deng',
+             'Yunyun Li',
+             'Cong Liu',
+             'Han Wang',
+             'Zi Yang',
+             'Ting Xie',
+             'Yanming Huang'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383623',
+ 'publication_date': '2025',
+ 'title': 'Inflammation-driven mechanisms in endometrial cancer: pathways from '
+          'inflammatory microenvironment remodeling to immune escape.'}
+
+================================================================================
+ARTICLE 9
+================================================================================
+{'abstract': 'Pancreatic ductal adenocarcinoma (PDAC) is a highly malignant '
+             'tumor with poor prognosis. Efferocytosis, an essential process '
+             'for clearing apoptotic cells, is involved in shaping '
+             'immunosuppressive microenvironment, facilitating tumor immune '
+             'evasion. This study aims to evaluate the prognostic value of '
+             'efferocytosis-related biomarkers in PDAC and elucidate their '
+             'underlying mechanisms, providing insights for personalized '
+             'therapy. We integrated bulk and single-cell transcriptomic data '
+             'from public database to construct and validate an '
+             'efferocytosis-related prognostic model for PDAC. Additionally, '
+             'we analyzed the specimens from a cohort of 81 PDAC patients '
+             'alongside cell experiments to elucidate the function of P2RY6. '
+             'RNA-seq analysis was employed to uncover the effector pathways '
+             'mediated by P2RY6. An efferocytosis-based prognostic model, '
+             'EFFscore, developed based on  The prognostic model EFFscore '
+             'exhibits remarkable predictive performance, accurately '
+             'reflecting the malignant potential of PDAC. P2RY6 serves as a '
+             'key oncogenic factor driver in PDAC, its targeted inhibition '
+             'significantly suppresses tumor progression, highlighting its '
+             'dual potential as a diagnostic biomarker and therapeutic target.',
+ 'authors': ['Xiangjun Wang',
+             'Wei Wang',
+             'Chuanxin Yang',
+             'Puxiongzhi Wang',
+             'Yangming Liu',
+             'Liqin Yu',
+             'Sijie Zhang',
+             'Xiaoyu Yan',
+             'Jian Wang'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383622',
+ 'publication_date': '2025',
+ 'title': 'Efferocytosis-associated genes serve as prognostic biomarkers for '
+          'pancreatic ductal adenocarcinoma and identify P2RY6 as a '
+          'therapeutic target.'}
+
+================================================================================
+ARTICLE 10
+================================================================================
+{'abstract': 'Metastasis, the primary cause of cancer-related mortality, is '
+             'sustained by complex interactions between tumor cells and '
+             'host-derived factors. Extracellular vesicles, membrane-bound '
+             'particles that mediate intercellular communication, have emerged '
+             'as critical regulators of this process. Among them, '
+             'platelet-derived extracellular vesicles represent the most '
+             'abundant EV population in circulation and extend the '
+             'multifaceted influence of platelets in cancer progression. '
+             'Platelets actively contribute to metastasis by shielding '
+             'circulating tumor cells from immune surveillance, promoting '
+             'vascular remodelling, facilitating extravasation, and releasing '
+             'soluble factors that shape the premetastatic niche. '
+             'Platelet-derived extracellular vesicles further potentiate these '
+             'processes by delivering a heterogeneous cargo of proteins, '
+             'nucleic acids, and lipids to endothelial, stromal, and immune '
+             'cells, thereby promoting angiogenesis, extracellular matrix '
+             'remodelling, immune suppression, and organ-specific metastatic '
+             'colonization. This review summarizes current evidence on the '
+             'cooperative roles of platelets and platelet-derived '
+             'extracellular vesicles in metastatic dissemination, with '
+             'particular emphasis on their contribution to lung premetastatic '
+             'niche formation and their emerging translational potential in '
+             'oncology.',
+ 'authors': ['Camilla Locatelli',
+             'Nicole Ferrario',
+             'Orazio Fortunato',
+             'Patrizia Ghidotti',
+             'Rossella Crescitelli'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383620',
+ 'publication_date': '2025',
+ 'title': 'Platelets and platelet-derived extracellular vesicles: their role '
+          'in lung cancer dissemination and premetastatic niche formation.'}
+
+================================================================================
+ARTICLE 11
+================================================================================
+{'abstract': 'Osteosarcoma is a primary bone malignancy in which outcomes for '
+             'patients with metastatic or relapsed disease remain '
+             'unsatisfactory despite optimized surgery-chemotherapy backbones. '
+             'Recently, advances in cancer neuroscience have highlighted '
+             'neurotrophins-nerve growth factor (NGF) and brain-derived '
+             'neurotrophic factor (BDNF)-and their Trk/p75',
+ 'authors': ['Lin An', 'Yunqiang Zhuang', 'Heyang Sun'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383615',
+ 'publication_date': '2025',
+ 'title': 'NGF/BDNF-Trk/p75NTR signaling in osteosarcoma immunity: biomarkers '
+          'and therapeutic opportunities.'}
+
+================================================================================
+ARTICLE 12
+================================================================================
+{'abstract': 'Ovarian clear cell carcinoma (OCCC) is a rare, aggressive '
+             'epithelial ovarian cancer subtype, accounting for approximately '
+             '10% of cases and associated with a poor prognosis due to '
+             'chemoresistance and unique tumor biology. OCCC is frequently '
+             'linked to endometriosis and characterized by mutations in ',
+ 'authors': ['Anna Passarelli',
+             'Sabrina Chiara Cecere',
+             'Jole Ventriglia',
+             'Carmela Pisano',
+             'Rosella De Cecio',
+             'Sabrina Rossetti',
+             'Rosa Tambaro',
+             'Marilena Di Napoli',
+             'Lorenzo Lobianco',
+             'Gabriele Calvanese',
+             'Maria Rosaria Lamia',
+             'Erica Perri',
+             'Maria Sara Peluso',
+             'Emilia Scarpa',
+             'Salvatore Stilo',
+             'Francesco Fiore',
+             'Sergio Venanzio Setola',
+             'Daniela Califano',
+             'Sandro Pignata'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383608',
+ 'publication_date': '2025',
+ 'title': 'The immunotherapy era in ovarian clear cell carcinoma: current '
+          'evidence and future perspective.'}
+
+================================================================================
+ARTICLE 13
+================================================================================
+{'abstract': 'The calcium-dependent activator protein for secretion (CAPS) has '
+             'emerged as a protein of interest in tumor biology; however, its '
+             'functional significance in endometrial carcinoma (EC) remains '
+             'largely unexplored. We performed an integrative analysis '
+             'leveraging bulk RNA sequencing data from The Cancer Genome '
+             'Atlas, GTEx, and publicly available EC datasets, coupled with '
+             'gene set enrichment analysis (GSEA) and single-cell '
+             'transcriptomic profiling. The association between CAPS '
+             'expression and clinicopathological parameters as well as patient '
+             'prognosis was systematically assessed. In addition, functional '
+             'enrichment, intercellular communication, and immune infiltration '
+             'analyses were conducted to elucidate the molecular and '
+             'microenvironmental roles of CAPS.  CAPS was significantly '
+             'upregulated in early-stage, low-grade, and endometrioid '
+             'endometrial carcinoma, and its elevated expression was '
+             'associated with improved patient survival. GSEA indicated that '
+             'high CAPS expression was correlated with enhanced ribosome '
+             'biogenesis and oxidative phosphorylation, along with suppression '
+             'of proliferative signaling, reflecting a metabolically '
+             'differentiated phenotype. Single-cell transcriptomic analysis '
+             'revealed that CAPS was specifically enriched in terminally '
+             'differentiated secretory epithelial cells, promoting epithelial '
+             'maturation and oxidative metabolism. Furthermore, CAPS-positive '
+             'cells exhibited extensive crosstalk with immune cells, '
+             'suggesting a potential role in facilitating anti-tumor immune '
+             'responses. Functional assays confirmed that CAPS knockdown '
+             'markedly enhanced EC cell proliferation, migration, and '
+             'invasion. CAPS may act as a tumor suppressor in EC by '
+             'stabilizing microtubule architecture, reprogramming cellular '
+             'metabolism, and modulating immune interactions within the tumor '
+             'microenvironment. These findings highlight CAPS as a promising '
+             'prognostic biomarker and potential therapeutic target in EC.',
+ 'authors': ['Xi Chen',
+             'Ruiyue Wu',
+             'Zijing Wang',
+             'Fengfeng Wang',
+             'Dan Hu',
+             'Xuehan Bi',
+             'Xiaolei Liang',
+             'Yongxiu Yang'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383604',
+ 'publication_date': '2025',
+ 'title': 'Pan-cancer multi-omics characterization of calcyphosine and its '
+          'revealed links to the immune microenvironment and regulatory '
+          'networks in endometrial carcinoma.'}
+
+================================================================================
+ARTICLE 14
+================================================================================
+{'abstract': 'Immune checkpoint inhibitors (ICIs) improve survival in advanced '
+             'cancers but are associated with immune-related adverse events '
+             '(irAEs), whose prognostic impact remains debated. The role of '
+             'systemic inflammatory biomarkers is also not fully defined. This '
+             'research merged a comprehensive systematic review and '
+             'meta-analysis of 38 studies involving 55,966 participants with a '
+             'multicenter retrospective cohort study of 870 patients receiving '
+             'ICI therapy. The aim of this study was to examine the '
+             'association between irAE characteristics and severity, and '
+             'baseline inflammatory indicators (NLR, dNLR and PLR), with '
+             'clinical outcomes, particularly survival (OS) and disease '
+             'progression survival (PFS). The data were analyzed through '
+             'time-dependent cox model and meta-analysis. Among 870 '
+             'immunotherapy patients, 32.4% developed irAEs, predominantly '
+             'grade 1-2 (83.9%). Severe irAEs (grade >2) significantly '
+             'increased mortality (OS HR\xa0=\xa01.93). Organ-specific '
+             'analysis identified endocrine (HR\xa0=\xa00.938, p < 0.001) and '
+             'skin toxicity (HR\xa0=\xa00.763, p<0.001) as independent '
+             'protective factors for OS, while hepatic (HR\xa0=\xa01.602, '
+             'p=0.031) and cardiac toxicity (HR\xa0=\xa01.181, p=0.017) were '
+             'risk factors. Elevated baseline inflammatory markers-MLR >0.47 '
+             '(HR\xa0=\xa03.37), NLR >3.45 (HR\xa0=\xa02.24), and PLR >186.98 '
+             '(HR\xa0=\xa02.10)-also predicted poorer OS. A meta-analysis '
+             'confirmed that low-grade irAEs (grade ≤2) conferred significant '
+             'survival benefit (OS HR\xa0=\xa00.54), particularly skin and '
+             'endocrine toxicities. These findings support irAEs as biomarkers '
+             'of immunotherapy response, with prognostic relevance shaped by '
+             'severity and organ involvement. The prognosis of irAEs depends '
+             'on organ involvement and severity. Endocrine and skin toxicities '
+             'confer survival benefits, while severe, hepatic, and cardiac '
+             'events pose significant risks. Inflammatory markers predict '
+             'survival but not irAE onset.',
+ 'authors': ['Mengying Qian',
+             'Ping Ma',
+             'Yu Zhao',
+             'Hao Jiang',
+             'LiYang Gao',
+             'Gaoyang Lin',
+             'Difan Duan',
+             'Jinmin Guo'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383598',
+ 'publication_date': '2025',
+ 'title': 'Immune checkpoint inhibitor therapy in advanced cancer: clinical '
+          'association of irAEs type, inflammatory markers and efficacy.'}
+
+================================================================================
+ARTICLE 15
+================================================================================
+{'abstract': 'Osteosarcoma arises within heterogeneous tumor-immune ecosystems '
+             'in which impaired antigen visibility-shaped by chromatin '
+             'programs-limits immune surveillance and blunts responses to '
+             'immunotherapy. Beyond structural defects in the '
+             'antigen-processing pathway, Polycomb-mediated repression, DNA '
+             'hypermethylation, and state-specific enhancer closure converge '
+             'on the HLA class I/NLRC5/interferon axis to diminish peptide '
+             'display. These constraints are context dependent, varying across '
+             'malignant clones, differentiation states, and myeloid and T-cell '
+             'niches. Traditional bulk assays obscure this complexity; '
+             'single-cell ATAC-seq, integrated with single-cell and spatial '
+             'transcriptomics, now resolves promoter-enhancer accessibility at '
+             'HLA, NLRC5, and antigen-processing genes, distinguishes '
+             'reversible repression from fixed lesions, and links '
+             'microenvironmental stress to interferon competence. '
+             'Translationally, epigenetic reprogramming-targeting Polycomb '
+             'repressive complex 2 (PRC2), DNA methyltransferases (DNMTs), and '
+             'complementary regulators (for example, LSD1, BET, CDK4/6, '
+             'YAP/TEAD)-offers biomarker-guided avenues to restore antigen '
+             'presentation, provided ecosystem-aware pharmacodynamic readouts '
+             'track chromatin opening and antigen-presentation recovery across '
+             'compartments. Despite encouraging preclinical evidence, efficacy '
+             'will depend on clone selection, scheduling that preserves '
+             'interferon signaling, and rational combinations with innate '
+             'agonists and checkpoint blockade. This mini-review synthesizes '
+             'epigenetic mechanisms of antigen-presentation failure in '
+             'osteosarcoma and outlines how single-cell chromatin profiling '
+             'can guide strategies to reinstate tumor antigen visibility.',
+ 'authors': ['Yan He', 'Heng Wu'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383594',
+ 'publication_date': '2025',
+ 'title': 'Epigenetic control of antigen presentation failure in osteosarcoma: '
+          'from single-cell chromatin maps to therapeutic strategies.'}
+
+================================================================================
+ARTICLE 16
+================================================================================
+{'abstract': 'Abnormal protein glycosylation is a key feature of tumors. Among '
+             'the modifications, Tn antigen (GalNAcα1-Ser/Thr) and its '
+             'sialylated derivative, STn antigen '
+             '(Neu5Acα2-6GalNAcα1-O-Ser/Thr), are prominent tumor-associated '
+             'carbohydrate antigens. These antigens exhibit abnormal '
+             'accumulation in epithelial malignancies, including colorectal '
+             'cancer, breast cancer, and pancreatic cancer. Their pathological '
+             'overexpression primarily stems from inactivation of the '
+             'COSMC/T-synthase axis, either due to genetic mutations or '
+             'epigenetic silencing, leading to truncated O-glycan '
+             'biosynthesis. Tn/STn antigens directly promote tumor progression '
+             'by activating oncogenic signaling pathways (e.g., EGFR/FAK) and '
+             'inducing epithelial-mesenchymal transition. Additionally, these '
+             'antigens play a noticeable role in immune suppression in the '
+             'tumor microenvironment. Tn antigens bind to macrophage '
+             'galactose-specific lectin (MGL) on myeloid cells, while STn '
+             'antigens interact with sialic acid-binding immunoglobulin-like '
+             'lectins (Siglecs), collectively inhibiting natural killer cell '
+             'cytotoxicity, dendritic cell maturation, and T cell activation. '
+             'Changes in serum levels of glycoprotein tumor markers (e.g., '
+             'CA15-3 and CA125) are associated with aberrant protein '
+             'glycosylation in cancer cells, which may influence their '
+             'expression levels, stability, or immunodetection. Current '
+             'therapeutic approaches include monoclonal antibodies (e.g., '
+             'Remab6, L2A5), antibody-drug conjugates, CAR-T cell therapies, '
+             'and vaccines. However, challenges remain due to glycan '
+             'heterogeneity and low immunogenicity. Tn/STn antigens play a '
+             'pivotal role in tumorigenesis and immune evasion, presenting '
+             'significant potential for both diagnostic and therapeutic '
+             'applications. Future research should concentrate on elucidating '
+             'the underlying mechanisms, developing innovative detection '
+             'technologies, and promoting multidisciplinary collaborations to '
+             'advance Tn/STn antigen-based tumor molecular subtyping, '
+             'precision targeted therapies, and efficacy prediction systems, '
+             'thereby providing new directions for cancer diagnosis and '
+             'treatment.',
+ 'authors': ['Shuailong Zhao',
+             'Cegang Fu',
+             'Boya Gong',
+             'Hongyan Wu',
+             'Ruitao Zhang',
+             'Huili Cai',
+             'Haidan Chen'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383589',
+ 'publication_date': '2025',
+ 'title': 'Tumor-associated Tn and STn antigens: from molecular mechanism to '
+          'precision diagnosis and treatment.'}
+
+================================================================================
+ARTICLE 17
+================================================================================
+{'abstract': 'HCC patients beyond the "up-to-seven" criteria face a high risk '
+             'of recurrence, and optimal perioperative strategies warrant '
+             'further investigation. This study evaluated the efficacy and '
+             'safety of neoadjuvant TACE combined with PD-1 inhibitors and '
+             'TKIs in this population. We retrospectively analyzed 126 HCC '
+             'patients who underwent curative liver resection between January '
+             '2021 and June 2024. Of these, 73 patients received preoperative '
+             'TACE with PD-1 inhibitors and TKIs (PST group), and 53 underwent '
+             'direct surgery without preoperative therapy (Surgery group). PSM '
+             'was applied to control for confounding factors, resulting in 39 '
+             'matched pairs. The primary endpoints were RFS and OS, with '
+             'secondary endpoints including intraoperative blood loss, '
+             'surgical time, and complications. After matching, the PST group '
+             'demonstrated significantly superior RFS and OS compared to the '
+             'Surgery group (P < 0.05). The median RFS was 26 months in the '
+             'PST group versus 13 months in the Surgery group (P\xa0=\xa0'
+             '0.029). There were no significant differences in postoperative '
+             'complications between the two groups (P\xa0=\xa00.365). The PST '
+             'group exhibited longer surgical times (P < 0.001) and slightly '
+             'higher intraoperative blood loss, suggesting increased surgical '
+             'complexity due to preoperative therapy. Treatment-related '
+             'adverse events were predominantly grade 1-2, with few grade 3-4 '
+             'events. Preoperative TACE with PD-1 inhibitors and TKIs was '
+             'associated with improved survival without increasing severe '
+             'complications in beyond "up-to-seven" HCC, suggesting a '
+             'promising perioperative strategy for high-risk patients.',
+ 'authors': ['Deyuan Zhong',
+             'Yuxin Liang',
+             'YaHui Chen',
+             'Yuhao Su',
+             'Qinyan Yang',
+             'Hongtao Yan',
+             'Xiaolun Huang',
+             'Ming Wang'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383585',
+ 'publication_date': '2025',
+ 'title': 'Preoperative TACE with PD-1 inhibitors and TKIs in beyond '
+          '"up-to-seven" hepatocellular carcinoma: a propensity score matched '
+          'analysis.'}
+
+================================================================================
+ARTICLE 18
+================================================================================
+{'abstract': 'In malignant tumors, a hypercoagulable state is frequently '
+             'observed and is intricately intertwined with cancer development '
+             'and the remodeling of the immune microenvironment. Recently, the '
+             'coagulation-related genes (CRGs) signature has emerged as highly '
+             'significant for the prognosis and immunotherapy of patients with '
+             'various cancers. Nevertheless, their application in esophageal '
+             'squamous cell carcinoma (ESCC) remains uninvestigated. Here, our '
+             'objective is to explore the role of the CRGs signature in '
+             "forecasting prognosis and predicting patient's response to "
+             'immunotherapy. According to the prognostic CRGs, consensus '
+             'clustering was utilized to stratify ESCC patients in the '
+             'GSE53625 cohort into two subgroups. Subsequently, difference '
+             'analysis and univariate cox analysis were conducted on the two '
+             'subgroups, and a CRGs signature was constructed by leveraging '
+             'these genes. Next, multiple RNA transcriptome cohorts were '
+             'utilized to validate the signature. Moreover, functional '
+             'enrichment, tumor mutation burden (TMB), tumor infiltration, '
+             'immune function, and immunotherapy response of this signature '
+             'were investigated. A CRGs signature composed of six genes (PTX3, '
+             'CILP, CFHR4, SULT1B1, IL5RA, and FAM151A) was constructed. This '
+             'signature serves as an independent and reliable prognostic '
+             'factor. Additionally, when compared with the 32 prognostic '
+             'signatures previously reported, the CRGs signature exhibited '
+             'superior performance in the ESCC prognostic cohorts. '
+             'Additionally, we found that high-risk ESCC exhibited higher '
+             'immune infiltration, lower TMB, higher TIDE, and a lower '
+             'proportion of immunotherapy response.  We constructed and '
+             'validated a robust CRGs signature. Moreover, as one of the model '
+             'CRGs, the tumor-suppressive role of SULT1B1 in ESCC was '
+             'experimentally verified ',
+ 'authors': ['Rui Wang',
+             'Weisong Zhang',
+             'Xia Li',
+             'Hao Wang',
+             'Yanan Ji',
+             'Jing Zhao',
+             'JianXiang Song',
+             'Zhongquan Yi'],
+ 'journal': 'Frontiers in immunology',
+ 'pmid': '41383582',
+ 'publication_date': '2025',
+ 'title': 'Multi-cohort validation based on coagulation-related genes for '
+          'predicting prognosis of esophageal squamous cell carcinoma.'}
+
+================================================================================
+ARTICLE 19
+================================================================================
+{'abstract': 'This study endeavors to develop and validate an integrated '
+             'biomarker signature (IBS) grounded in serum carbohydrate antigen '
+             '72-4 (CA72-4), vascular endothelial growth factor-C (VEGF-C), '
+             'and the pepsinogen I/II ratio (PGI/PGII). A practical IBS model '
+             'will be constructed to substantially enhance the accuracy of '
+             'lymph node metastasis (LNM) risk stratification following '
+             'surgery for esophageal squamous cell carcinoma (ESCC). This '
+             'model is anticipated to refine prognostic assessments for '
+             'patients and to identify novel research avenues within the '
+             'field, thereby providing guidance for both prognostic '
+             'determination and future investigations. A prospective '
+             'three-cohort design was adopted, encompassing a training cohort '
+             'of 220 patients, a temporal validation cohort of 138 patients, '
+             'and a regional external validation cohort of 94 patients. This '
+             'design was selected for its robustness in ensuring the validity '
+             'and reliability of the findings. A total of 452 patients with '
+             'esophageal squamous cell carcinoma (ESCC) who underwent R0 '
+             'resection were enrolled between March 2022 and June 2024. The '
+             'predictive model was constructed using the XGBoost algorithm '
+             'combined with Shapley Additive exPlanations (SHAP) for '
+             'interpretability. Model performance was evaluated via receiver '
+             'operating characteristic (ROC) curves, decision curve analysis, '
+             'and net reclassification index. The IBS model demonstrated '
+             'superior discriminative ability in the training cohort ( The '
+             'validated IBS model provides high-precision prediction of '
+             'postoperative LNM risk in ESCC. It offers a novel framework (',
+ 'authors': ['Hailong Pang', 'Shenshen Hao', 'Shuiwang Hu'],
+ 'journal': 'Frontiers in oncology',
+ 'pmid': '41383510',
+ 'publication_date': '2025',
+ 'title': 'Integrated liquid biopsy model for predicting metastasis and '
+          'guiding PD-1 therapy in esophageal squamous cell carcinoma.'}
+
+================================================================================
+ARTICLE 20
+================================================================================
+{'abstract': 'Intra-voxel incoherent motion (IVIM) biomarkers require '
+             'validation for translation into clinical practice. This work '
+             'evaluates repeatability and sensitivity to treatment of IVIM '
+             'biomarkers in the uterine cervix, and assesses suitability of '
+             'the IVIM model. Six healthy volunteers underwent two scans to '
+             'evaluate repeatability. Eight patients with stage IIB-IVA '
+             'cervical squamous cell carcinoma were scanned pre-treatment, and '
+             'at weeks 3 and 5 into treatment. IVIM and apparent diffusion '
+             'coefficient (ADC) model fits were compared using the corrected '
+             'Akaike information criterion (AIC',
+ 'authors': ['Damien J McHugh',
+             'Anubhav Datta',
+             'Michael J Dubec',
+             'David L Buckley',
+             'Ross A Little',
+             'Michael Berks',
+             'Susan Cheung',
+             'Kate Haslett',
+             'Lisa Barraclough',
+             'Catharine M L West',
+             'Ananya Choudhury',
+             'Peter Hoskin',
+             "James P B O'Connor"],
+ 'journal': 'Frontiers in oncology',
+ 'pmid': '41383497',
+ 'publication_date': '2025',
+ 'title': 'Intra-voxel incoherent motion biomarker repeatability in healthy '
+          'volunteers and sensitivity to chemoradiotherapy-induced changes in '
+          'patients with uterine cervical cancer.'}
+
+================================================================================
+ARTICLE 21
+================================================================================
+{'abstract': 'Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, has '
+             'emerged as a multifaceted therapeutic agent in oncology due to '
+             'its dual anti-inflammatory and antitumor properties. This review '
+             'synthesizes recent advances in understanding the molecular '
+             'mechanisms and clinical applications of celecoxib in cancer '
+             'treatment. Celecoxib not only hinders the proliferation and '
+             'metastasis of tumor cells by inhibiting COX-2 synthesis, but '
+             'also inhibits the intratumoral infiltration of regulatory T '
+             'cells (Tregs) and myeloid-derived suppressor cells (MDSCs) and '
+             'activates cytotoxic T cells, thereby reshaping the inhibitory '
+             'immune microenvironment. Preclinical and clinical studies '
+             'demonstrate its synergistic effects with chemotherapy, '
+             'radiotherapy, and immunotherapy, particularly in augmenting '
+             'immune checkpoint blockade efficacy. Despite the breakthrough of '
+             'celecoxib in the field of oncology treatment, large-scale trials '
+             'are warranted to validate its long-term safety and '
+             'biomarker-driven accuracy. This work underscores the potential '
+             'of celecoxib as a cornerstone in multimodal cancer therapy and '
+             'provides a roadmap for its integration into personalized '
+             'treatment paradigms.',
+ 'authors': ['Boyang Kuang',
+             'Kuan Yang',
+             'Xiaoting Zhong',
+             'Yingwei Tan',
+             'Yi Zhou',
+             'Jianming Ye'],
+ 'journal': 'Frontiers in pharmacology',
+ 'pmid': '41383482',
+ 'publication_date': '2025',
+ 'title': 'Celecoxib in oncology: targeting the COX-2/PGE'}
+
+================================================================================
+ARTICLE 22
+================================================================================
+{'abstract': 'Systemic inflammation has emerged as a key determinant of '
+             'prognosis in epithelial ovarian cancer (EOC). The pre-treatment '
+             'C-reactive protein/albumin (CRP/Alb) ratio integrates host '
+             'inflammatory and nutritional status, but its prognostic role in '
+             'advanced-stage EOC remains incompletely defined. We '
+             'retrospectively analyzed 256 patients with FIGO stage III-IV '
+             'high-grade serous ovarian cancer treated at a tertiary oncology '
+             'center between 2010 and 2024. All patients underwent primary or '
+             'interval cytoreductive surgery followed by standard '
+             'platinum-based chemotherapy. Pre-treatment CRP and albumin '
+             'values obtained within 14 days before therapy were used to '
+             'calculate the CRP/Alb ratio. Patients were stratified according '
+             'to the predefined median cut-off (2.32). Overall survival (OS) '
+             'was the primary endpoint, and progression-free survival (PFS) '
+             'was the secondary endpoint. Cox regression models were applied '
+             'for univariate and multivariate analyses. Median follow-up was '
+             '81.4 months. The median OS for the entire cohort was 58.1 '
+             'months. Patients with a CRP/Alb ratio <2.32\xa0had significantly '
+             'longer OS (74.6 vs 45.6 months; p = 0.003) and PFS (24.8 vs 17.1 '
+             'months; p = 0.026) compared to those with higher ratios. In '
+             'multivariate analysis, a CRP/Alb ratio ≥2.32 remained an '
+             'independent predictor of worse OS (HR = 1.88; 95% CI: 1.12-3.18; '
+             'p = 0.018), along with age ≥65 years (HR = 2.34; p < 0.001) and '
+             'ECOG performance status 2-3 (HR = 1.60; p = 0.006). Individual '
+             'CRP or albumin levels did not retain prognostic significance. '
+             'The pre-treatment CRP/Alb ratio is a simple, accessible, and '
+             'independent prognostic biomarker in advanced-stage EOC. Its '
+             'integration into routine risk assessment may enhance '
+             'individualized prognostication and help identify high-risk '
+             'patients who could benefit from closer monitoring and tailored '
+             'supportive care. Prospective multicenter validation is '
+             'warranted.',
+ 'authors': ['Fatih Atalah',
+             'Akgün Karakök',
+             'Aydın Acarbay',
+             'Mehmet Beşiroğlu',
+             'Mahmut Gümüş'],
+ 'journal': 'OncoTargets and therapy',
+ 'pmid': '41383440',
+ 'publication_date': '2025',
+ 'title': 'Prognostic Impact of Pre-Treatment CRP/Albumin Ratio in Patients '
+          'with Advanced-Stage Epithelial Ovarian Cancer.'}
+
+================================================================================
+ARTICLE 23
+================================================================================
+{'abstract': 'Muscle wasting and sarcopenia in advanced breast cancer '
+             'correlates with poor outcomes. The serum creatinine-to-cystatin '
+             'C ratio (CCR) is a potential muscle mass biomarker, but its '
+             'prognostic value in advanced breast cancer is unclear. This '
+             'multicenter retrospective cohort study included 465 patients '
+             'with stage III-IV breast cancer (2018-2023) receiving standard '
+             'treatment. The creatinine-cystatin C ratio (CCR) was calculated '
+             'based on baseline serum markers. The primary endpoint was the '
+             '1-year all-cause mortality rate, as assessed through medical '
+             'records and follow-up. A multivariate Cox regression model was '
+             'used to analyze the relationship between CCR and mortality, '
+             'along with restricted cubic spline, Kaplan-Meier survival '
+             'analysis, ROC curve, and subgroup analysis. This study enrolled '
+             'a total of 465 patients with stage III-IV breast cancer, with a '
+             'median age of 52.0 (interquartile range [IQR], 47.0-60.0)years '
+             'and a median creatinine-cystatin C ratio (CCR) of 1.0 (IQR, '
+             '0.8-1.2). The 1-year mortality rate among all patients was 26.2% '
+             '(122/465), with a mortality rate of 18.1% (52/288) for stage III '
+             'patients and 39.5% (70/177) for stage IV patients. Multivariate '
+             'Cox proportional hazards regression analysis showed a '
+             'significant negative association between CCR and 1-year '
+             'all-cause mortality in breast cancer patients (adjusted HR\u202f'
+             '=\u202f0.68, 95% CI: 0.63-0.74,  The serum creatinine-cystatin C '
+             'ratio is an independent predictor of 1-year mortality risk in '
+             'advanced breast cancer, with higher levels associated with '
+             'significantly reduced mortality.',
+ 'authors': ['Huijie Deng',
+             'Jiacheng Yang',
+             'Guanyu Zheng',
+             'Biyao Zhang',
+             'Yuzhou Wang',
+             'Yuye Wu',
+             'Shufen Mo',
+             'Shengchao Huang',
+             'Yuanqi Zhang',
+             'Lixia Li'],
+ 'journal': 'Frontiers in nutrition',
+ 'pmid': '41383336',
+ 'publication_date': '2025',
+ 'title': 'Serum creatinine-to-cystatin C ratio and 1-year mortality risk in '
+          'advanced breast cancer patients: a multicenter retrospective cohort '
+          'study.'}
+
+================================================================================
+ARTICLE 24
+================================================================================
+{'abstract': 'SRY-related high-mobility group protein B5 (SOX5) functions as '
+             'an oncogene in diverse human malignancies, contributing to tumor '
+             'progression, metastasis and therapy resistance across various '
+             'cancer types. In light of this, a pan-cancer analysis was '
+             'performed in the present study to investigate the oncogenic '
+             'function of SOX5 in various human malignancies. SOX5 mRNA '
+             'expression levels were compared between normal and malignant '
+             'tissues using The Cancer Genome Atlas database and diagnostic '
+             'effectiveness was evaluated using receiver operating '
+             'characteristic curve analysis. Kaplan-Meier survival analysis '
+             'was performed to investigate the association between SOX5 '
+             'expression and overall survival, disease-specific survival, '
+             'disease-free interval and progression-free interval. The '
+             'influence of SOX5 on immune infiltration and immunological '
+             'scores in the tumor microenvironment was assessed utilizing '
+             'Estimation of Stromal and Immune Cells in Malignant Tumor '
+             'Tissues Using Expression Data, Cell-Type Identification by '
+             'Estimating Relative Subsets of RNA Transcripts and single-sample '
+             'Gene Set Enrichment Analysis methodologies, in conjunction with '
+             'its relationship to drug sensitivity and genetic modifications. '
+             'SOX5 exhibited tissue-specific dysregulation, being markedly '
+             'downregulated in carcinomas such as lung adenocarcinoma (LUAD), '
+             'lung squamous cell carcinoma and breast cancer, while increased '
+             'in testicular germ cell tumor and non-small cell lung cancer '
+             '(NSCLC) cell lines. It demonstrated notable diagnostic '
+             'potential, with good performance in LUAD (area under the '
+             'curve=0.916). The prognostic relevance of SOX5 was contingent '
+             'upon context as lower expression conferred protection in '
+             'specific malignancies; however, it was associated with worse '
+             'outcomes in others, such as low-grade glioma and pancreatic '
+             'adenocarcinoma. Increased SOX5 expression was associated with an '
+             'immunosuppressive milieu marked by a rise in regulatory T cells, '
+             'a decline in cytotoxic T cells and the activation of '
+             'immunological checkpoints including programmed death-ligand 1 '
+             'and cytotoxic T lymphocyte associated protein 4. Moreover, SOX5 '
+             'was associated with genomic instability, susceptibility to '
+             'medicines such as azacitidine and distinct mutation patterns. '
+             'SOX5 suppression in NSCLC cells ',
+ 'authors': ['Yajun Tong',
+             'Huini Da',
+             'Kewei Tang',
+             'Qiang Zhou',
+             'Songlian Liu',
+             'Leilan Yin',
+             'Ling Long',
+             'Site Bai',
+             'Ludi Ou',
+             'Qinghua Yin'],
+ 'journal': 'Experimental and therapeutic medicine',
+ 'pmid': '41383256',
+ 'publication_date': '2026-Feb',
+ 'title': 'Pan-cancer analysis of the oncogenic role of SRY-related '
+          'high-mobility group box protein B5 in human tumors.'}
+
+================================================================================
+ARTICLE 25
+================================================================================
+{'abstract': 'Our laboratory specializes in the intratumoral (i.t.) delivery '
+             'of virus nanoparticles (VNPs) that activate immune cells and '
+             'modulate the tumor microenvironment (TME). For this study, we '
+             'conjugated the CH401 peptide-containing B-cell, helper T-cell, '
+             'and cytotoxic T-cell epitopes of HER2-to the plant cowpea mosaic '
+             'virus (CPMV) and bacteriophage Qβ to develop vaccines for HER2',
+ 'authors': ['Miguel A Moreno-Gonzalez',
+             'Jessica Fernanda Affonso de Oliveira',
+             'Manuel L Penichet',
+             'Nicole F Steinmetz'],
+ 'journal': 'Oncoimmunology',
+ 'pmid': '41383045',
+ 'publication_date': '2025-Dec-31',
+ 'title': 'Virus nanoparticle intratumoral vaccines for HER2'}
+
+================================================================================
+ARTICLE 26
+================================================================================
+{'abstract': 'The development of theranostic probes with tumor-specific '
+             'targeting and high therapeutic efficacy remains a pivotal '
+             'challenge in precision oncology. Herein, we have successfully '
+             'developed a new cyclooxygenase-2 (COX-2)-targeted probe compound '
+             '2 derived from Rofecoxib. Compound 2 facilitated tumor '
+             'visualization by a sixfold fluorescence enhancement upon COX-2 '
+             'binding, while it exhibited minimal background fluorescence '
+             'under physiological conditions. Moreover, compound 2 monotherapy '
+             'achieved 53% tumor regression (p\u2009<\u20090.01). When '
+             'combined with a programmed cell death protein 1 (PD-1) inhibitor '
+             '(RMP1-14), concurrent blockade of the COX-2/prostaglandin E2 '
+             '(PGE2) and PD-1/programmed death-ligand 1 (PD-L1) axes achieved '
+             '95% tumor regression (p\u2009<\u20090.001). Compound 2 involves '
+             'activating fluorescence by targeting tumor markers COX-2 as well '
+             'as enhancing therapeutic efficacy. We believe this approach '
+             'could provide insights for advancing cancer diagnosis and '
+             'treatment technologies.',
+ 'authors': ['Xinli Wang',
+             'Xia Wang',
+             'Xuejing Su',
+             'Zexin Wang',
+             'Yongxiao Sun',
+             'Lijun Xie',
+             'Xiaoyan Lin'],
+ 'journal': 'Archiv der Pharmazie',
+ 'pmid': '41382986',
+ 'publication_date': '2025-Dec',
+ 'title': 'A Rofecoxib-Derived Theranostic Probe and Its Combination With PD-1 '
+          'Inhibitor for High-Efficiency Cancer Therapy.'}
+
+================================================================================
+ARTICLE 27
+================================================================================
+{'abstract': 'Cancer of oral cavity is an increasingly public health concern, '
+             'ranking as the seventh most frequent cancer in Europe and it is '
+             'the eleventh deadliest cancer. Oral squamous cell carcinoma '
+             '(OSCC) has one of the lowest 5-year survival rates, about 50% of '
+             'these patients will die within five years. Tumors arising in '
+             'this area often exhibit highly aggressive characteristics, with '
+             'a strong tendency toward local infiltration and distant spread, '
+             'leading many patients to be diagnosed with advanced locoregional '
+             'disease. Thus, it becomes necessary to identify new biomarkers '
+             'with significant impact on the diagnosis and prognosis of OSCC, '
+             'to improve clinical management and the quality of life of these '
+             'patients. Studies in recent decades have investigated the '
+             'involvement of adhesion molecules in OSCC initiation, '
+             'tumorigenesis, progression and dissemination. Based on these '
+             'considerations, this study sought to evaluate the '
+             'immunoreactivity of three transmembrane adhesion molecules '
+             '(desmoglein-3, claudin-4, and claudin-7) in primary OSCC and '
+             'their lymph node (LN) metastases, as well as to assess their '
+             'potential prognostic significance. To achieve this, we analyzed '
+             '39 OSCC samples from diverse anatomical regions and their '
+             'associated locoregional LN metastases using enzymatic '
+             'immunohistochemistry, applying integrated optical density (IOD) '
+             'for quantitative assessment. Our results highlighted a '
+             'progressive decrease of membranous staining pattern followed by '
+             'a progressive increase in cytoplasmic and nuclear reactivity for '
+             'all three investigated markers as these lesions progress from '
+             'low-grade to high-grade one. The highest cytoplasmic and nuclear '
+             'reactivity was noticed in poorly differentiated forms, mainly at '
+             'the periphery of tumor proliferation and at the invasion front. '
+             'A similar reactivity to that from primary tumors was also '
+             'noticed in metastatic LN proliferations. So, we concluded that '
+             'these three biomarkers are involved in OSCC progression and '
+             'dissemination and their investigation may have prognostic and '
+             'therapeutic utility.',
+ 'authors': ['Ionuţ Octavian Ilie',
+             'Ionuţ Andrei Muraru',
+             'Mircea Sorin Ciolofan',
+             'Daniela Dumitrescu',
+             'Maria Cristina Munteanu',
+             'Marius Matei',
+             'Eugeniu Cazacu',
+             'Claudiu Mărgăritescu'],
+ 'journal': 'Romanian journal of morphology and embryology = Revue roumaine de '
+            'morphologie et embryologie',
+ 'pmid': '41382943',
+ 'publication_date': '2025',
+ 'title': 'Immunoprofile of some transmembrane adhesion molecules in oral '
+          'squamous cell carcinoma.'}
+
+================================================================================
+ARTICLE 28
+================================================================================
+{'abstract': 'Thyroid malignancy represents the most common type of endocrine '
+             'cancer, with an increasing incidence all over the world, '
+             'including an increasing rate of detection among younger adults, '
+             '90% to 95% of all cases being non-medullary types. Poorly '
+             'differentiated thyroid cancer, accounting 1% to 5% of all '
+             'thyroid malignancies, is a less understood neoplasm compared to '
+             'the other more frequent and better described thyroid cancers, '
+             'associating various histological patterns that might bring '
+             'pitfalls of diagnosis in everyday practice. We aimed to provide '
+             'an updated analysis in the field of poorly differentiated '
+             'thyroid carcinoma, based on a multimodal approach, including '
+             'emergent biomarkers. The current data offers a robust framework '
+             'for elucidating the biology of poorly differenced thyroid '
+             'malignancy and further on, it provides the basis for a '
+             'multilayered therapeutic approach. Emergent biomarkers might be '
+             'detected from cytological analysis based on fine-needle '
+             'aspiration or blood assays as cell-free deoxyribonucleic acid '
+             '(cfDNA), but the most important remains the identification of '
+             'the molecular and genetic constellation in terms of analyzing '
+             'RAS, telomerase reverse transcriptase (TERT), B-Raf '
+             'proto-oncogene, serine∕threonine kinase (BRAF), tumor protein '
+             'p53 (TP53), phosphatase and tensin homolog (PTEN), copy number '
+             'alterations (CNA) and phosphatidylinositol-4,5-bisphosphate '
+             '3-kinase catalytic subunit alpha (PIK3CA) profile, which serve '
+             'as prognostic markers and pointers of anti-cancer medical '
+             'therapy. Overall, despite recent advances in multimodal '
+             'management, the prognostic remains severe. The issue is ongoing, '
+             'and we expect a massive expansion within the following years, '
+             'across a guideline-based, as well as a personalized decision.',
+ 'authors': ['Mihai Costachescu',
+             'Nina Ionovici',
+             'Dana Cristina Terzea',
+             'Florina Vasilescu',
+             'Lucian George Eftimie',
+             'Alexandra Ioana Trandafir',
+             'Ana Maria Gheorghe',
+             'Oana Claudia Sima',
+             'Claudiu Nistor',
+             'Mara Carsote'],
+ 'journal': 'Romanian journal of morphology and embryology = Revue roumaine de '
+            'morphologie et embryologie',
+ 'pmid': '41382940',
+ 'publication_date': '2025',
+ 'title': 'Multimodal spectrum of approach in poorly differentiated thyroid '
+          'carcinoma (an updated analysis).'}
+
+================================================================================
+ARTICLE 29
+================================================================================
+{'abstract': 'Uveal melanoma (UM) is a highly aggressive malignancy with a '
+             'metastatic risk that depends on the molecular subclass. This '
+             'subclass can be determined through molecular characterization of '
+             'tumor-derived tissue. With eye-sparing treatments, tumor tissue '
+             'is rarely available for molecular testing. We hypothesized that '
+             'minimal invasive biomarkers such as methylated cell-free DNA '
+             '(cfDNA) or circulating tumor DNA (ctDNA) can be used for '
+             'prognosis and monitoring of patients. Plasma cfDNA was isolated '
+             'from healthy blood donors (HBDs, N\u2009=\u200919) and UM '
+             'patients (N\u2009=\u200922). Plasma was collected at baseline '
+             '(localized disease, N\u2009=\u200913) and during follow-up '
+             '(metastatic disease, N\u2009=\u20099) from independent patients '
+             'with high metastatic risk (HR, N\u2009=\u200911) (monosomy 3 '
+             'and/or BAP1-mutated tumor) or intermediate metastatic risk (IR, '
+             'N\u2009=\u200911) (disomy 3 and/or SF3B1-mutated tumor). '
+             'Methylation signatures were determined using genome-wide '
+             'LpnPI-based methylated DNA sequencing (MeD-seq). Samples with a '
+             'CpG/reads ratio\u2009<\u200920% (N\u2009=\u20093) were excluded. '
+             'IchorCNA was used to estimate the tumor fraction. cfDNA samples '
+             'with detectable tumor fraction (N\u2009=\u20092) were analyzed '
+             'separately from the other cfDNA samples without detectable tumor '
+             'fraction (N\u2009=\u200918) to reduce noise in downstream '
+             'analyses. Differentially methylated regions (DMRs) were '
+             'identified between the following predefined subgroups: UM '
+             '(N\u2009=\u200911) vs. HBDs (N\u2009=\u200919), and HR (N\u2009'
+             '=\u200910) vs. IR (N\u2009=\u20097). To visualize clustering, '
+             'principal component analysis (PCA) and hierarchical clustering '
+             'was performed on the DMRs with fold change\u2009>\u20092.0. Gene '
+             'set enrichment analysis (GSEA, Z-score\u2009>\u20092.0 and '
+             'p\u2009<\u20090.05) was performed to evaluate biological '
+             'relevance. Distinct clustering was observed between UM and HBDs '
+             'samples, and between HR and IR samples, although outliers were '
+             'present in the latter comparison. GSEA implicated eight '
+             'canonical pathways including the S100 Family Signaling Pathway '
+             'and RAF/MAP kinase cascade, which are linked to tumorigenesis '
+             'and immune processes. This pilot study reports on cfDNA '
+             'methylation signatures that differentiates UM patients from '
+             'HBDs, and may distinguish between intermediate and high risk UM '
+             'subgroups, supporting its prognostic potential. However, its '
+             'role in monitoring disease progression requires further '
+             'validation. Independent replication studies are warranted to '
+             'confirm our findings and evaluate the clinical applicability in '
+             'UM.',
+ 'authors': ['Mike Wu',
+             'Daniël P de Bruyn',
+             'Ruben G Boers',
+             'Aaron B Beasley',
+             'Daan M Hazelaar',
+             'Stavros Makrodimitris',
+             'Joachim B Boers',
+             'Jolanda Vaarwater',
+             'Ronald O B de Keizer',
+             'Robert M Verdijk',
+             'Nicole C Naus',
+             'Dion Paridaens',
+             'Saskia M Wilting',
+             'Elin S Gray',
+             'Wilfred F J van IJcken',
+             'Joost Gribnau',
+             'Annelies de Klein',
+             'Erwin Brosens',
+             'Emine Kiliç'],
+ 'journal': 'Cancer cell international',
+ 'pmid': '41382221',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Methylated CfDNA may distinguish between high- and '
+          'intermediate-risk uveal melanoma: a pilot study.'}
+
+================================================================================
+ARTICLE 30
+================================================================================
+{'abstract': 'This letter comments on work by Grippin et\xa0al. demonstrating '
+             'that SARS-CoV-2 mRNA vaccines can reprogram the tumour '
+             'microenvironment and enhance PD-1/PD-L1 blockade, suggesting '
+             'broader implications for mRNA-driven immune activation in cancer '
+             'therapy.',
+ 'authors': ['Julian Jamie Freen-van Heeren'],
+ 'journal': 'Scandinavian journal of immunology',
+ 'pmid': '41381999',
+ 'publication_date': '2025-Dec',
+ 'title': 'From Spike to Strike: SARS-CoV-2 mRNA Vaccines Sensitise Tumours to '
+          'PD-1/PD-L1 Blockade.'}
+
+================================================================================
+ARTICLE 31
+================================================================================
+{'abstract': 'Recurrent high‑grade glioma (HGG)-including glioblastoma-remains '
+             'lethal, with median survival of approximately 6-10\u2009months '
+             'after first progression, although patients with IDH mutant '
+             'tumors often have better survival. Recent ASCO/SNO data and '
+             'expanding trial data are reshaping available treatment '
+             'strategies. We review evidence for alkylators and '
+             'anti‑angiogenic therapy; summarize targeted options for rare, '
+             'actionable alterations; review immuno‑oncology combinations and '
+             'cellular therapies; highlight DNA damage response '
+             '(DDR)/radiosensitization strategies and discuss advances in '
+             'blood-brain barrier modulation and locoregional delivery. We '
+             'propose a patient‑centered algorithm that prioritizes trial '
+             'enrollment, biomarker‑guided approaches, steroid stewardship, '
+             'and quality of life. Lomustine, temozolomide rechallenge, and '
+             'bevacizumab remain commonly used but provide modest benefit. '
+             'Targeted agents show meaningful activity only in select subsets '
+             '(BRAF V600E, NTRK). DDR-directed agents such as ATM/ATR '
+             'inhibitors show early promise. Immunotherapy advances center on '
+             'rationale combinations, oncolytic viruses, and locoregionally '
+             'delivered CAR-T/TCR platforms. Blood-Brain-Barrier (BBB) '
+             'modulation strategies and adaptive trials are broadening access '
+             'to innovative therapies. The 2025 landscape features meaningful, '
+             'if incremental, options-alongside the first ever FDA‑approved '
+             'therapy for H3K27M‑mutant diffuse midline glioma at relapse-and '
+             'a pipeline of rational combinatorial approaches poised to refine '
+             'outcomes for selected patients. This article concentrates on '
+             'medical options and intentionally omits extended discussions of '
+             'surgery and radiation beyond their integration with systemic '
+             'therapies at recurrence. Despite poor overall outcomes, '
+             'incremental progress across targeted, immune, and delivery-based '
+             'approaches supports a patient centered strategy emphasizing '
+             'clinical-trial enrollment, molecular profiling and symptom '
+             'focused care.',
+ 'authors': ['Jan Drappatz', 'Megan Mantica'],
+ 'journal': 'Journal of neuro-oncology',
+ 'pmid': '41381983',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Treatment strategies and innovation for recurrent high-grade '
+          'glioma.'}
+
+================================================================================
+ARTICLE 32
+================================================================================
+{'abstract': 'Accurate prognostication is crucial for guiding personalised '
+             'treatment strategies in non-small cell lung cancer (NSCLC). '
+             'While radiomics offers promise, few features are derived from '
+             'cancer models with causal justification to support their '
+             'biological validity. This study evaluated the prognostic utility '
+             'of normalised hotspot-to-centroid distance (NHOC), a recently '
+             'proposed [18F]FDG PET imaging metric derived from a cancer '
+             'evolutionary model, and its integration with PET/CT radiomics '
+             'and clinical features to form a composite signature, '
+             'non-invasive lung cancer evolution vector (nLCEV). A '
+             'retrospective, multi-centre study was conducted using '
+             'pre-treatment [18F]FDG PET/CT scans from 285 NSCLC patients '
+             '(mean age: 67.7\u2009±\u200910.1\xa0years; male:female\u2009'
+             '=\u2009171:114, International Association for the Study of Lung '
+             'Cancer stage: T1/2/3/4/unknown\u2009=\u200961/118/53/52/1, '
+             'N0/1/2/3/unknown\u2009=\u2009133/46/71/34/1, M0/1/unknown\u2009'
+             '=\u2009222/62/1) from Imperial College Healthcare NHS Trust as '
+             'the discovery cohort. External validation cohorts included '
+             "patients from King's College (n\u2009=\u200953), Royal Marsden "
+             '(n\u2009=\u200963), Mount Vernon (n\u2009=\u200961), and '
+             'Nottingham University (n\u2009=\u200938) hospitals. NHOC was '
+             'evaluated for 3-year overall survival prediction and combined '
+             'with a multi-regional PET/CT radiomics predictive vector (RPV) '
+             'and disease stage to develop nLCEV. NHOC and RPV demonstrated '
+             'independent prognostic value (hazard ratio (HR) [95% confidence '
+             'interval]: 2.52 [1.60-3.98] and 2.68 [2.13-3.38], respectively). '
+             'nLCEV achieved an area under the receiver operating '
+             'characteristic curve of 0.76 [0.60-0.92] and stratified patients '
+             'into high- and low-risk groups across all validation cohorts '
+             'with significant HR: KCL 3.27 [1.31, 8.16], Marsden 2.21 [1.02, '
+             '4.78], Mount Vernon 2.60 [1.42, 4.76], and Nottingham 4.14 '
+             '[1.44, 11.90] (all p\u2009<\u20090.05). NHOC enhances NSCLC '
+             'patient survival prediction, and when integrated with PET-CT '
+             'radiomics and disease stage, offers a robust, non-invasive '
+             'approach to disease prognostication.',
+ 'authors': ['Mitchell Chen',
+             'Susan J Copley',
+             'Yidong Han',
+             'Mubarik A Arshad',
+             'Patrizia Viola',
+             'Kristofer Linton-Reid',
+             'Tina Stoycheva',
+             'Gary J R Cook',
+             'David Landau',
+             'Sue Chua',
+             "Richard O'Connor",
+             'Jeannette Dickson',
+             'Danielle Power',
+             'Andrea G Rockall',
+             'Tara D Barwick',
+             'Eric O Aboagye'],
+ 'journal': 'European journal of nuclear medicine and molecular imaging',
+ 'pmid': '41381759',
+ 'publication_date': '2025-Dec-12',
+ 'title': 'An explainable imaging-clinical biomarker for non-small cell lung '
+          'cancer prognostication based on normalised hotspot to centroid '
+          'distance and ['}
+
+================================================================================
+ARTICLE 33
+================================================================================
+{'abstract': 'Molecularly targeted therapies are increasingly relevant in '
+             'clinical oncology, as they enable the selective modulation of '
+             'specific biologic targets-such as enzymes or receptors-by '
+             'inhibiting or enhancing their function. Nectin cell adhesion '
+             'molecule 4\xa0(nectin-4), a tumor-associated antigen, is '
+             'overexpressed in various malignancies and has been linked to '
+             'tumor progression and poor clinical outcomes. Its role has '
+             'recently gained significant attention, particularly in '
+             'urothelial carcinoma, where nectin-4-targeted antibody-drug '
+             'conjugates have demonstrated promising therapeutic efficacy. '
+             'These findings have positioned nectin-4 not only as a relevant '
+             'target for noninvasive tumor characterization and cancer therapy '
+             'but also as a valuable biomarker for molecular imaging. This '
+             'review provides an overview of the recent developments in '
+             'nectin-4-directed molecular theranostics, on the basis of a '
+             'literature analysis, with a focus on the design, preclinical '
+             'validation, and clinical translation of novel radiotracers in '
+             'nuclear medicine. Multiple nectin-4-targeted '
+             'radiotracers-comprising antibody- and peptide-based agents-have '
+             'demonstrated high specificity and strong affinity for '
+             'nectin-4-overexpressing tumors, particularly in urothelial '
+             'carcinoma and triple-negative breast cancer. Exploratory '
+             'preclinical and clinical data consistently showed comparable '
+             'diagnostic accuracy to standard molecular imaging methods (e.g., '
+             '[',
+ 'authors': ['Laura Schäfer',
+             'Betül Altunay',
+             'Agnieszka Morgenroth',
+             'Andreas Vogg',
+             'Yvonne Derks',
+             'Twan Lammers',
+             'Quim Peña',
+             'Felix Manuel Mottaghy',
+             'Susanne Lütje'],
+ 'journal': 'Journal of nuclear medicine : official publication, Society of '
+            'Nuclear Medicine',
+ 'pmid': '41381237',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Nectin-4-Targeted Radiotheranostics for Personalized Cancer '
+          'Therapy: A Systematic Review.'}
+
+================================================================================
+ARTICLE 34
+================================================================================
+{'abstract': 'Intraductal papillary mucinous neoplasms (IPMNs) are precursor '
+             'lesions of pancreatic cancer with highly variable malignant '
+             'potential. Current understanding of their biology remains '
+             'incomplete, limiting accurate risk stratification and targeted '
+             'interventions. This study aimed to characterise the molecular '
+             'and immune features of IPMN across different dysplasia grades '
+             'and histological subtypes, with a focus on IPMN-associated '
+             'invasive carcinoma (IPMN-IC). Spatial whole-transcriptome '
+             'profiling using Digital Spatial Profiling was conducted on 12 '
+             'patients, capturing the full histological and dysplastic '
+             'spectrum of IPMN and conventional pancreatic ductal '
+             'adenocarcinoma. A total of 117 epithelial, immune and stromal '
+             'areas of interest were analysed. An expanded cohort of 43 '
+             'patients with IPMN was used to validate selected key markers. '
+             'Transcriptomic analysis unveiled stage-specific molecular '
+             'alterations and identified two distinct subsets of high-grade '
+             '(HG) IPMN lesions: one resembling indolent lesions (HG) and the '
+             'other IC (HG+). Key markers associated with divergent biological '
+             'behaviours were identified, including MUC5AC and TFF1 in '
+             'indolent lesions, and Claudin-1 in lesions with invasive '
+             'potential. Immune profiling revealed a trajectory from '
+             'activation to suppression during IPMN progression. Several '
+             'characteristic immune checkpoint molecules, including CEACAM1 '
+             'and CD44, were identified in IPMN-IC. This study provides a '
+             'spatially resolved molecular map of IPMN progression, '
+             'delineating key transcriptomic and immune signatures. These '
+             'findings advance the understanding of IPMN biology and highlight '
+             'potential biomarkers for risk stratification and therapeutic '
+             'strategies.',
+ 'authors': ['Ming Cui',
+             'Shengwei Mo',
+             'Jialu Bai',
+             'Ammar A Javed',
+             'Joseph R Habib',
+             'Sen Yang',
+             'Tianqi Chen',
+             'Ruiling Xiao',
+             'Wenfei Diao',
+             'Decheng Jiang',
+             'Christopher L Wolfgang',
+             'Xiaoyan Chang',
+             'Ya Hu',
+             'Yupei Zhao'],
+ 'journal': 'Gut',
+ 'pmid': '41381181',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Spatial transcriptomics defines the molecular progression, invasion '
+          'and immune landscape of IPMN and IPMN-derived pancreatic cancer.'}
+
+================================================================================
+ARTICLE 35
+================================================================================
+{'abstract': 'ObjectiveTo test whether exposure to bisphenol A is related to '
+             'immune modulation and prognosis in breast cancer using an '
+             'integrative framework.MethodsBisphenol A targets from toxicology '
+             'resources were intersected with breast cancer genes. '
+             'Protein-protein interaction networks were constructed, and hubs '
+             'were prioritized by centrality. Survival was evaluated in The '
+             'Cancer Genome Atlas breast cancer cohort using Cox and '
+             'Kaplan-Meier analyses. The tumor microenvironment was profiled '
+             'using ESTIMATE scores and CIBERSORT deconvolution. Consistency '
+             'was examined in the independent METABRIC cohort. Docking was '
+             'used to estimate bisphenol A-protein binding free '
+             'energies.ResultsFiltering converged on four immunoregulatory '
+             'genes-',
+ 'authors': ['Yu Fang', 'Jia-Li Yan', 'Wang Zhang'],
+ 'journal': 'The Journal of international medical research',
+ 'pmid': '41381070',
+ 'publication_date': '2025-Dec',
+ 'title': 'Network toxicology and multiomics reveal bisphenol A-mediated '
+          'immune evasion in breast cancer.'}
+
+================================================================================
+ARTICLE 36
+================================================================================
+{'abstract': 'Early recurrence reflects aggressive disease and poor prognosis, '
+             'with patterns varying across breast cancer subtypes. Early '
+             'recurrence is a major challenge in luminal HER2-negative high '
+             'proliferative breast cancer, yet reliable biomarkers remain '
+             'limited. Identifying biomarkers associated with early recurrence '
+             'is therefore of significant interest. Forty-two patients with '
+             'stage I-III luminal HER2-negative, high-proliferative breast '
+             'cancer were enrolled in the VGHTPE cohort and underwent targeted '
+             'next-generation sequencing using the ACTOnco Comprehensive '
+             'Cancer Panel. Findings were validated in The Cancer Genome Atlas '
+             '(TCGA) and METABRIC datasets, and in vitro experiments were '
+             'conducted to assess cell aggressiveness. We examined 42 '
+             'patients, including 15 who experienced recurrence within five '
+             'years and 27 who did not. Next-generation sequencing revealed '
+             'that the most prevalent alterations in this luminal '
+             'HER2-negative, high-proliferative breast cancer cohort were '
+             'mutations in PIK3CA and TP53, and amplifications/gains in MCL1, '
+             'MYC, and KLF6. Patients with recurrence within five years '
+             'exhibited a higher frequency of ITGB2 gain compared with '
+             'non-recurrent patients. Validation in the TCGA and METABRIC '
+             'cohorts confirmed the prognostic significance of ITGB2 gain in '
+             'ER+/HER2- breast cancers. Gene Set Enrichment Analysis indicated '
+             'that high ITGB2 expression was enriched in KRAS and EMT '
+             'pathways. In vitro experiments further demonstrated that ITGB2 '
+             'knockdown led to inactivation of Akt and ERK signaling and '
+             'suppression of cell aggressiveness in ER+/HER2- breast cancer '
+             'cells. ITGB2 gain represents an unfavorable prognostic marker '
+             'for early recurrence in luminal HER2-negative high proliferative '
+             'breast cancer, with potential therapeutic implications.',
+ 'authors': ['Chun-Yu Liu',
+             'Ji-Lin Chen',
+             'Yi-Fang Tsai',
+             'Ta-Chung Chao',
+             'Wan-Lun Wang',
+             'Pei-Ju Lien',
+             'Chih-Yi Hsu',
+             'Jiun-I Lai',
+             'Chi-Cheng Huang',
+             'Jen-Hwey Chiu',
+             'Ling-Ming Tseng'],
+ 'journal': 'Cancer research and treatment',
+ 'pmid': '41381061',
+ 'publication_date': '2025-Dec-04',
+ 'title': 'ITGB2 Gene Gain as a Prognostic Marker for Early Recurrence in '
+          'Luminal HER2-Negative High Proliferative Breast Cancer.'}
+
+================================================================================
+ARTICLE 37
+================================================================================
+{'abstract': 'BackgroundGastric cancer remains a major global health challenge '
+             'due to its high mortality rate and complex pathophysiological '
+             'mechanisms. Emerging evidence highlights that dysregulated lipid '
+             'metabolism contributes to gastric cancer progression and '
+             'prognosis, but the associations between lipid '
+             'metabolism-associated genes, gastric cancer patient survival, '
+             'and tumor immune microenvironment remodeling are not fully '
+             'elucidated.MethodsWe analyzed publicly available omics and '
+             'clinical data, including RNA sequencing data from 371 gastric '
+             'cancer samples in The Cancer Genome Atlas database and 433 '
+             'gastric cancer samples in the Gene Expression Omnibus database. '
+             'We first curated the top 100 lipid metabolism-associated genes '
+             'based on relevance scores. Then, univariate Cox regression was '
+             'used to identify genes significantly associated with overall '
+             'survival. Consensus clustering was applied to these '
+             'survival-related genes to define gastric cancer molecular '
+             'subtypes. Copy number variation analysis was performed to assess '
+             'genomic alterations of these genes in tumor samples. A '
+             'prognostic risk model was constructed using least absolute '
+             'shrinkage and selection operator regression and validated via '
+             'multivariate Cox regression. Immune infiltration analysis using '
+             'CIBERSORT and ESTIMATE algorithms was conducted to explore '
+             'associations between lipid metabolism-associated genes and tumor '
+             'immune microenvironment characteristics.ResultsA total of 3911 '
+             'differentially expressed genes were identified between gastric '
+             'cancer and adjacent normal tissues. Among the top 100 lipid '
+             'metabolism-associated genes, 43 were significantly linked to '
+             'patient survival, most of which were considered as poor '
+             'prognostic factors. Copy number variation analysis revealed '
+             'frequent copy number gains of these genes in tumor samples. '
+             'Consensus clustering stratified patients into two molecular '
+             'subtypes (LMAGcluster A and LMAGcluster B), with LMAGcluster A '
+             'showing significantly worse survival outcomes (median survival: '
+             '2.6 years vs. 8.3 years in LMAGcluster B, p\u2009<\u20090.001). '
+             'LMAGcluster A was also characterized by elevated infiltration of '
+             'pro-tumor immune cells, such as regulatory T cells and '
+             'follicular helper T cells. The prognostic model based on 14\u2009'
+             'key lipid metabolism-associated genes exhibited robust '
+             'predictive performance, with area under the receiver operating '
+             'characteristic curve values of 0.702-0.761 in The Cancer Genome '
+             'Atlas cohort and 0.621-0.638 in the Gene Expression Omnibus '
+             'cohort for 1-, 3-, and 5-year survival.ConclusionLipid '
+             'metabolism-associated genes are closely associated with gastric '
+             'cancer prognosis and tumor immune microenvironment remodeling. '
+             'The identified gene-based molecular subtypes and prognostic '
+             'model provide novel insights into gastric cancer progression, '
+             'and the 14\u2009key genes may serve as potential biomarkers and '
+             'therapeutic targets.',
+ 'authors': ['Yanan Xiao',
+             'Qin Yu',
+             'Zewen Zhu',
+             'Shan Zhou',
+             'Zhe Wu',
+             'Xin Luo',
+             'Xingzhi Huang',
+             'Zhiqiang Zhan'],
+ 'journal': 'The Journal of international medical research',
+ 'pmid': '41381057',
+ 'publication_date': '2025-Dec',
+ 'title': 'Exploring the role of lipid metabolism genes in gastric cancer '
+          'prognosis and tumor immune microenvironment.'}
+
+================================================================================
+ARTICLE 38
+================================================================================
+{'abstract': 'Current treatments for colorectal cancer (CRC) can induce '
+             'apparent disease remission; unfortunately, CRC eventually '
+             'relapses in many patients. CRC recurrence has been associated '
+             'with the presence of dormant cancer cells, which are difficult '
+             'to detect and are maintained in a resilient state characterized '
+             'by a low cell cycling rate. Dormant cancer cells evade immune '
+             'surveillance, are not eliminated by conventional therapy, and '
+             'employ specific metabolic programs enabling them to remain '
+             'hidden for extended periods. Furthermore, the period elapsed '
+             'since the onset of the disease, represents the opportunity where '
+             'tumor has early spread to distant sites. Importantly, cellular '
+             'dormancy and awakening are also involved in metastasis. This '
+             'review explores the nuanced mechanisms involved in cellular '
+             'dormancy, from remnant cancer cells of the primary tumor to '
+             'metastatic cancer cells. The insights in this field hold promise '
+             'to contribute clinical innovations for the improvement of '
+             'predictive biomarkers or targeted therapies. Indeed, we address '
+             'cell dormancy by unifying a set of concepts from modern oncology '
+             'in light of the unique characteristics of CRC. Here, we discuss '
+             'the immune system, metabolic imbalance, and drug tolerance; the '
+             'major challenges that dormant cancer cells must overcome once '
+             'awakened. This review reinforces the translational value of '
+             'cellular dormancy as the foremost cause of recurrence and poor '
+             'prognosis in colorectal cancer, with the aim of guiding the '
+             'development of potential emergent treatments that can be '
+             'combined with existing approaches such as chemotherapy and '
+             'immunotherapy.',
+ 'authors': ['Eduardo Alvarado-Ortiz',
+             'Angela P Moreno-Londoño',
+             'Miguel Ángel Sarabia-Sánchez'],
+ 'journal': 'Critical reviews in oncology/hematology',
+ 'pmid': '41380867',
+ 'publication_date': '2025-Dec-09',
+ 'title': 'Dormancy in Colorectal Cancer: The Functional Core of Resistance, '
+          'Metastasis, and Relapse.'}
+
+================================================================================
+ARTICLE 39
+================================================================================
+{'abstract': 'Cyclin E1 is a critical mediator of cell cycle dynamics, '
+             'controlling G1/S phase transition in complex with CDK2. '
+             'Overexpression of cyclin E1 can lead to replication stress, DNA '
+             'damage, and heightened genomic instability. This is associated '
+             'with oncogenesis, and is frequently observed pan-cancer; but is '
+             'particularly common in high grade serous ovarian cancer (HGSOC). '
+             'HGSOC exhibits a genomic landscape dominated by structural '
+             'variation and instability, with high cyclin E1 expression in up '
+             'to 58% and CCNE1 amplification in up to 30% of cases. HGSOC '
+             'therefore represents an exemplar setting for investigating '
+             'cyclin E dysregulation in cancer. HGSOC patients with high '
+             'tumour expression of cyclin E1, in combination with copy number '
+             'amplification, experience particularly poor survival. Agents '
+             'targeting CDK2, WEE1, and PYMKT1, and other cell cycle '
+             'associated targets have shown strong preclinical activity in '
+             'models of high cyclin E expression and CCNE1 amplification. '
+             'Recent clinical trials have explored the efficacy and '
+             'tolerability of these agents, particularly in biomarker selected '
+             'cohorts. The WEE1 inhibitor adavosertib and the CDK2 inhibitor '
+             'INCB123667 achieved response rates of 53% and 33% respectively '
+             'in platinum-resistant ovarian cancer patients whose tumours '
+             'overexpressed cyclin E1. Targeting of cyclin E dysregulation via '
+             'a synthetic lethality approach is therefore a key area of focus '
+             'for improving treatment strategies in HGSOC and other cancers '
+             'with high unmet clinical need. In this review we discuss the '
+             'functions of cyclin E1, mechanisms and consequences of '
+             'dysregulation, and strategies for therapeutic exploitation of '
+             'cyclin E1 dysregulated tumours, combining fundamental biology '
+             'with clinical perspectives.',
+ 'authors': ['Sarah J Taylor', 'Charlie Gourley'],
+ 'journal': 'Critical reviews in oncology/hematology',
+ 'pmid': '41380866',
+ 'publication_date': '2025-Dec-09',
+ 'title': 'Cyclin E1 as a driver of oncogenesis; high grade serous ovarian '
+          'cancer as an exemplar.'}
+
+================================================================================
+ARTICLE 40
+================================================================================
+{'abstract': 'Gastric cancer remains a major global health burden, with high '
+             'mortality driven by late-stage diagnoses that limit treatment '
+             'options and reduce survival. Current diagnostic methods such as '
+             'endoscopy and biopsy are invasive, resource-intensive, and '
+             'impractical for large-scale early detection. This study aimed to '
+             'develop and validate an ensemble machine learning model '
+             'integrating four cell-free DNA (cfDNA) fragmentomic feature '
+             'classes derived from 5\u202f×\u202fwhole genome sequencing (WGS) '
+             'data to non-invasively differentiate malignant gastric cancer '
+             'from benign gastric lesions in high-risk or symptomatic '
+             'patients. A total of 681 plasma samples were prospectively '
+             'collected, comprising 329 from patients with gastric cancer or '
+             'high-grade intraepithelial neoplasia (HGIN) and 352 from '
+             'individuals with benign gastric conditions. The dataset was '
+             'divided into a training cohort (n\u202f=\u202f333) and a '
+             'temporally independent validation cohort (n\u202f=\u202f348). An '
+             'external validation cohort of 305 participants was also '
+             'included. The ensemble model achieved an AUROC of 0.920 in '
+             'cross-validation testing on the training cohort, 0.912 in the '
+             'independent validation cohort, and 0.896 (95% CI 0.860-0.932) in '
+             'the external cohort. At a pre-specified prediction threshold of '
+             '0.402, the model demonstrated 93.3% sensitivity and 71.9% '
+             'specificity in the validation cohort, yielding a PPV of 71.3% '
+             'and an NPV of 93.5%. In the external cohort, sensitivity and '
+             'specificity were 91.7% and 69.1%, respectively (PPV 75.7%, NPV '
+             '88.8%). Model scores correlated with clinical stage, tumor '
+             'grade, and histopathological subtype. Approximately 71% of '
+             'non-cancer patients could have been spared unnecessary '
+             'endoscopy. The cfDNA fragmentomics-based ensemble model enables '
+             'accurate, non-invasive differentiation between gastric cancer '
+             'and benign gastric lesions in high-risk or symptomatic patients. '
+             'This approach demonstrates strong potential as a pre-endoscopy '
+             'triage tool, supporting earlier detection and more efficient use '
+             'of diagnostic resources.',
+ 'authors': ['Hengzhen Li',
+             'Meng Chen',
+             'Ying Liu',
+             'Haimeng Tang',
+             'Guangtao Jiao',
+             'Ling Qu',
+             'Yushuai Song',
+             'Dan Jiang',
+             'Chuanfeng Mo',
+             'Xiaona Fan',
+             'Yisheng Dai',
+             'Zhuo Chen',
+             'Haitao Wang',
+             'Ruowei Yang',
+             'Dongqin Zhu',
+             'Xiuxiu Xu',
+             'Hua Bao',
+             'Henan Zhou',
+             'Huaxing Wu',
+             'Wenhui Li',
+             'Huike Yang',
+             'Chao Liu',
+             'Zhiwei Li'],
+ 'journal': 'Journal of advanced research',
+ 'pmid': '41380836',
+ 'publication_date': '2025-Dec-09',
+ 'title': 'Noninvasive detection and differentiation of gastric malignancy '
+          'using cell-free DNA biomarkers.'}
+
+================================================================================
+ARTICLE 41
+================================================================================
+{'abstract': 'Next-generation sequencing (NGS) offers broad molecular '
+             'profiling that reveals genetic variation, gene expression and '
+             'epigenetic modifications. This information is essential for '
+             'identifying actionable biomarkers, enabling informed clinical '
+             'decision-making and allowing therapeutic targeting of specific '
+             'genetic alterations. International guidelines recommend '
+             'biomarker testing in suitable patients, as targeted therapy '
+             'offers greater benefits than non-specific chemotherapy. Several '
+             'factors are pivotal for maximising the clinical utility and '
+             'integration biomarker testing approaches in clinical practice. '
+             'While utilising genomic information from NGS is becoming part of '
+             'routine oncology practice, the integration of the significant '
+             'complexity of the sequencing data can be challenging. Therefore, '
+             'the involvement of multidisciplinary teams in precision oncology '
+             'including oncologists, pathologists, radiologists, molecular '
+             'biologists/geneticists and bioinformaticians is the need of the '
+             'hour. Here, we highlight the complexities of NGS techniques and '
+             'reporting that guide clinical decision-making in oncology, and '
+             'also provide UK expert perspectives on the integration of NGS '
+             'into local treatment practices.',
+ 'authors': ['Pasquale Rescigno', 'Alastair Greystoke'],
+ 'journal': 'Cancer treatment and research communications',
+ 'pmid': '41380654',
+ 'publication_date': '2025-Dec-02',
+ 'title': 'Illuminating the spectrum of genomic sequencing approaches in the '
+          'precision oncology era: A UK perspective.'}
+
+================================================================================
+ARTICLE 42
+================================================================================
+{'abstract': None,
+ 'authors': ['Eleonora Nicolò',
+             'Carolina Reduzzi',
+             'Jean-Yves Pierga',
+             'Paola Gazzaniga',
+             'Nikolas H Stoecklein',
+             'Valeria Denninghoff',
+             'Dominic G Rothwell',
+             'Johann S De Bono',
+             'Dario Marchetti',
+             'Evi Lianidou',
+             'Sabine Riethdorf',
+             'Daniele Generali',
+             'Paul Hofman',
+             'Lorenzo Gerratana',
+             'Peter Kuhn',
+             'Jean Paul Thiery',
+             'Michail Ignatiadis',
+             'Francois-Clement Bidard',
+             'Anthony Lucci',
+             'Sabine Kasimir-Bauer',
+             'Maria Jose Serrano',
+             'Massimo Cristofanilli'],
+ 'journal': 'European journal of cancer (Oxford, England : 1990)',
+ 'pmid': '41380580',
+ 'publication_date': '2025-Dec-10',
+ 'title': 'Corrigendum to "International expert consensus on the clinical '
+          'integration of circulating tumor cells in solid tumors" [Eur. J. '
+          'Cancer 231 (2025) 116050].'}
+
+================================================================================
+ARTICLE 43
+================================================================================
+{'abstract': 'This Society of Gynecologic Oncology review synthesizes updated '
+             'data from pivotal trials of poly-ADP-ribose polymerase '
+             'inhibitors (PARPi) in ovarian cancer. Multiple phase III trials '
+             'established PARPi as effective maintenance therapy, '
+             'demonstrating substantial progression-free survival across '
+             'biomarker-defined subgroups, particularly for patients with '
+             'BRCA-mutated and homologous recombination-deficient (HRD) '
+             'ovarian cancer. However, mature overall survival analyses and '
+             'safety signals prompted the US Food and Drug Administration to '
+             'narrow indications, while the broader indications were '
+             'maintained by the European Medicines Agency. We review the '
+             'current FDA approvals that now prioritize patients with '
+             'BRCA-mutated and HRD ovarian cancers, underscoring the '
+             'importance of biomarker stratification and careful patient '
+             'selection. We discuss the evolving regulatory landscape and '
+             'potential mechanisms of PARPi resistance.',
+ 'authors': ['Christina Washington',
+             'Bhavana Pothuri',
+             'Karen Cadoo',
+             'Yvette Drew',
+             'Rachel Miller-Garcia',
+             'Deborah K Armstrong',
+             "Roisin E O'Cearbhaill"],
+ 'journal': 'Gynecologic oncology',
+ 'pmid': '41380304',
+ 'publication_date': '2025-Dec-10',
+ 'title': 'Updates in US Food and Drug Administration approvals for '
+          'poly-ADP-ribose polymerase inhibitors in Ovarian Cancer: A society '
+          'of gynecologic oncology clinical practice review.'}
+
+================================================================================
+ARTICLE 44
+================================================================================
+{'abstract': 'Sarcopenia has emerged as a significant predictor of adverse '
+             'outcomes in cancer. Specifically, this is also true for patients '
+             'with bladder cancer undergoing radical cystectomy (RC). This '
+             'retrospective study investigates the roles of the biomarkers '
+             'interleukin-6 (IL-6) and growth differentiation factor-15 '
+             '(GDF-15), in the context of sarcopenia, assessing their impact '
+             'on oncological and survival outcomes. Preoperative serum IL-6 '
+             'and GDF-15 levels were analysed in 179 patients undergoing RC. '
+             'Their association with sarcopenia, adverse pathological features '
+             'and survival outcomes was investigated. Elevated IL-6 and GDF-15 '
+             'levels were significantly correlated with the presence of '
+             'sarcopenia (p\u2009=\u20090.04 and p\u2009=\u20090.03, '
+             'respectively). IL-6 and GDF-15 levels in serum showed a positive '
+             'correlation (Spearman r\u2009=\u20090.45, 95%CI 0.32-0.56, '
+             'p\u2009<\u20090.01). Higher IL-6 and GDF-15 levels were also '
+             'associated with higher tumour stages (both p\u2009<\u20090.01), '
+             'positive lymph nodes (p\u2009=\u20090.02 and p\u2009<\u20090.01) '
+             'and unfavourable surgical margins (both p\u2009<\u20090.01). '
+             'Patients with both sarcopenia and high IL-6 or GDF-15 levels '
+             'exhibited significantly worse overall survival and '
+             'cancer-specific survival in multivariate Cox regression '
+             'analysis. These findings highlight the interplay between IL-6, '
+             'GDF-15, sarcopenia and tumour progression, suggesting that IL-6 '
+             'and GDF-15 may serve as valuable prognostic biomarkers and '
+             'potential therapeutic targets. Further research is warranted to '
+             'explore targeted therapeutic strategies aimed at mitigating '
+             'sarcopenia and systemic inflammation in this patient population.',
+ 'authors': ['Simon U Engelmann',
+             'Felix Kasparbauer',
+             'Christoph Pickl',
+             'Francesco Del Giudice',
+             'Maximilian Haas',
+             'Emily Rinderknecht',
+             'Peter J Siska',
+             'Renate Pichler',
+             'Christoph Niessen',
+             'Maximilian Burger',
+             'Miodrag Gužvić',
+             'Roman Mayr'],
+ 'journal': 'Journal of cachexia, sarcopenia and muscle',
+ 'pmid': '41380167',
+ 'publication_date': '2025-Dec',
+ 'title': 'Interplay of IL-6, GDF-15 and Sarcopenia in Patients With Bladder '
+          'Cancer Undergoing Radical Cystectomy and Its Implications on '
+          'Survival.'}
+
+================================================================================
+ARTICLE 45
+================================================================================
+{'abstract': 'Advancements in cancer-targeted immunotherapies have transformed '
+             'care, yet these therapies present a high likelihood of cytokine '
+             'release syndrome (CRS), a potentially severe immune-related '
+             'adverse event. The ability to identify CRS earlier could improve '
+             'care by mitigating risks, widening patient access, and reducing '
+             'the burden on patients, caregivers, and health care providers. '
+             'Digital health technologies (DHTs) are promising for early CRS '
+             'detection by enabling continuous measurement of vital signs '
+             'before symptoms are detected through standard intermittent '
+             'clinical assessments. While the number of studies is increasing, '
+             'inconsistencies in the symptoms and measures strongly associated '
+             'with CRS highlight the need for a comprehensive review to '
+             'identify the most reliable and commonly reported indicators. '
+             'Despite this growing body of research, reliable predictive and '
+             'diagnostic measures for early warning for CRS following the '
+             'administration of immunotherapy have yet to be established. This '
+             'scoping review aims to address this gap by developing an '
+             'ontology of early warning signs for CRS-a structured model '
+             'defining measurement concepts, properties, and '
+             'interrelationships-for advancing early warning models for CRS. '
+             'We conducted a mixed methods study including a scoping '
+             'literature review, surveys, and interviews. The literature '
+             'review searched PubMed and Embase (last searched March 19, 2024) '
+             'for articles reporting measures collected between therapy '
+             'administration and CRS onset and linked to CRS onset. Studies '
+             'were limited to publications between January 2014 and March '
+             '2024, excluding those that did not assess an immunotherapy-based '
+             'treatment, were not conducted in humans, did not compare '
+             'collected measures to CRS diagnosed using standard of care, or '
+             'were not available in English. Identified measures were further '
+             'assessed through surveys and interviews with subject matter '
+             'experts (SMEs; n=22) and key opinion leaders (KOLs; n=8) and '
+             'analyzed using qualitative and quantitative methods. Thirty '
+             'studies met eligibility criteria and used a variety of grading '
+             'scales and thresholds for severe CRS. A comprehensive ontology '
+             'of early warning signs for CRS that includes physiological '
+             'signs, clinical symptoms, and laboratory markers was developed. '
+             'Within the full ontology, a common set of early warning signs '
+             'for CRS-temperature, heart rate, blood pressure, and oxygen '
+             'saturation-was identified as the minimally necessary data to '
+             'evaluate for their predictive value for CRS. Three of these 4 '
+             'signs align with the American Society for Transplantation and '
+             'Cellular Therapy (ASTCT) criteria for CRS grading and other '
+             'clinical grading scales for CRS. Standardization and adoption of '
+             'the ontology of early warning signs for CRS will streamline data '
+             'collection to support the creation of robust, fit-for-purpose '
+             'datasets. This approach ensures practical and informative data '
+             'collection, ultimately enhancing the ability to predict and '
+             'manage CRS effectively. Developing predictive models based on '
+             'these early warning signs can enhance CRS risk assessment, '
+             'support decentralized trials, and improve access to '
+             'cancer-targeted immunotherapies.',
+ 'authors': ['Christopher J Medberry',
+             'Charlotte Zoe Angel',
+             'Ashita S Batavia',
+             'Sarah Bradley',
+             'Nunzio Camerlingo',
+             'Melinda Chen',
+             'Mohamed Datoo',
+             'Premal Kamdar',
+             'Erik Koenig',
+             'Lieke Kusters',
+             'Celine Marquez',
+             'Ujwani Nukala',
+             'Michael Pettinati',
+             'Ruth Phillips',
+             'Daniel P Sanchez',
+             'Nazila Shafagati',
+             'Jenifer Siegelman',
+             'Mark Stewart',
+             'Cindy Varga',
+             'Benjamin Vandendriessche',
+             'Matt Wilkes',
+             'Dana L Wolff-Hughes',
+             'David Zahavi',
+             'Sylvain Zorman',
+             'Samantha J McClenahan'],
+ 'journal': 'Journal of medical Internet research',
+ 'pmid': '41380014',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Digital Biomarkers of Cytokine Release Syndrome: Scoping Review and '
+          'Ontology Development of the Role and Relevance of Digital Measures '
+          'Using a Mixed Methods Approach.'}
+
+================================================================================
+ARTICLE 46
+================================================================================
+{'abstract': 'Cancer immunotherapy has transformed the therapeutic landscape '
+             "of oncology by harnessing the body's immune system to recognise "
+             'and eliminate malignant cells. In certain tumour types, such as '
+             'melanoma and non-small cell lung cancer, immune-based therapies '
+             'have led to durable clinical responses and significantly '
+             'improved survival. These successes have fuelled the rapid '
+             'integration of immunotherapeutic approaches into standard '
+             'treatment regimens. However, their effectiveness in the majority '
+             'of solid tumours remains limited. Several biological and '
+             'physical barriers underlie this limited efficacy. A major '
+             'challenge is the immunosuppressive nature of the tumour '
+             'microenvironment (TME), which hampers effective immune cell '
+             'infiltration and function. In many solid tumours, chronic '
+             'inflammation, poor antigen presentation, a low mutational '
+             'burden, and the presence of suppressive myeloid and stromal '
+             'cells create an environment resistant to immune activation. In '
+             'addition, high intra-tumoral pressure and abnormal vasculature '
+             'further restrict drug delivery and immune cell trafficking, '
+             'particularly in desmoplastic cancers such as pancreatic and '
+             'prostate cancer. Recent advances in immuno-oncology have focused '
+             "on strategies to overcome these barriers and convert 'cold' "
+             "tumours, those lacking immune cell infiltration, into 'hot', "
+             'immune-inflamed tumours. Despite this progress, clinical '
+             'translation has proven to be complex, with mixed results across '
+             'various tumour types. While some patients derive long-term '
+             'benefit from immunotherapy, others exhibit primary or acquired '
+             'resistance, underscoring the need for better patient '
+             'stratification and predictive biomarkers. This review provides a '
+             'comprehensive overview of the evolving field of immunotherapy '
+             'for solid tumours, discussing key mechanisms of immune '
+             'resistance, the role of the tumour microenvironment (TME), and '
+             'the multifactorial nature of therapeutic failure. It highlights '
+             'the importance of understanding tumour-immune interactions in '
+             'their full biological context, and explores current thinking on '
+             'how to reshape the immune landscape of solid tumours. By '
+             'addressing both immunological and physical barriers, future '
+             'approaches may broaden the benefit of immunotherapy beyond its '
+             'current scope, ultimately improving outcomes for patients with '
+             'traditionally treatment-resistant cancers.',
+ 'authors': ['Aniek E van Diepen',
+             'Songul Kucukcelebi',
+             'Judith de Vos-Geelen',
+             'Nigel G Kooreman'],
+ 'journal': 'European surgical research. Europaische chirurgische Forschung. '
+            'Recherches chirurgicales europeennes',
+ 'pmid': '41379722',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Immunotherapy for Solid Tumours: Current Clinical Landscape and '
+          'Future Directions.'}
+
+================================================================================
+ARTICLE 47
+================================================================================
+{'abstract': 'KRAS mutations serve as key oncogenic drivers in the initiation '
+             'and progression of pancreatic ductal adenocarcinoma (PDAC). '
+             'Despite the advancement of KRAS inhibitors like MRTX1133 for '
+             'PDAC treatment, intrinsic and acquired resistance remain major '
+             'barriers to their clinical efficacy. This study underscored the '
+             'role of histone deacetylase 5 (HDAC5) loss in mediating '
+             'intrinsic resistance to KRASG12D inhibitors. Mechanistically, '
+             'HDAC5 promoted c-Myc degradation by deacetylating K148, thereby '
+             'facilitating NEDD4-mediated ubiquitination at this site. The '
+             'loss of HDAC5 resulted in hyperacetylation of c-Myc at K148, '
+             'impeding the ubiquitination and subsequent degradation process '
+             'of c-Myc following deacetylation. Consequently, c-Myc stability '
+             'and transcriptional activity were sustained even under '
+             'KRAS-MEK-ERK pathway inhibition, reinforcing MAPK signaling and '
+             'promoting cell survival despite KRAS suppression. Our data '
+             'further demonstrated that pharmacological or genetic inhibition '
+             'of c-Myc effectively reversed the resistance phenotype mediated '
+             'by HDAC5 loss, suggesting a therapeutic strategy centered on '
+             '"KRAS-MYC dual-node blockade." Furthermore, the expression '
+             'levels of HDAC5 and the acetylation status of c-Myc may serve as '
+             'potential biomarkers for predicting the therapeutic response to '
+             'MRTX1133. These findings provide insights into overcoming '
+             'resistance to KRASG12D inhibitors and offer potential biomarkers '
+             'and combinatorial therapeutic strategies for precision treatment '
+             'of PDAC.',
+ 'authors': ['Taoyu Chen',
+             'Haixin Yu',
+             'Keshan Wang',
+             'Gengdu Qin',
+             'Yuhan Zhao',
+             'Xueyi Liang',
+             'Yuxuan Li',
+             'Tianhao Zou',
+             'Jiaying Liu',
+             'Jingyuan Zhao',
+             'Zhiqiang Liu',
+             'Ruozheng Wei',
+             'Bo Wang',
+             'Shanmiao Gou',
+             'Tao Yin',
+             'Heshui Wu',
+             'Xin Jin',
+             'Yingke Zhou'],
+ 'journal': 'The Journal of clinical investigation',
+ 'pmid': '41379561',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'HDAC5 deficiency induces intrinsic resistance to KRAS inhibition by '
+          'disrupting c-Myc acetylation-ubiquitination homeostasis.'}
+
+================================================================================
+ARTICLE 48
+================================================================================
+{'abstract': 'MicroRNA-184 (miR-184) regulates gene expression by binding to '
+             'target messenger RNAs, promoting their degradation, and '
+             'influencing key cellular processes. Its role in human cancers is '
+             'complex: while several studies report tumour-suppressive '
+             'effects, including inhibition of proliferation, migration, and '
+             'metastasis, contradictory evidence indicates that miR-184 may '
+             'act as a tumour promoter in certain contexts. This systematic '
+             'review aimed to clarify whether miR-184 functions as a universal '
+             'anticancer agent across human cancers. A comprehensive search of '
+             'PubMed and SCOPUS identified 123 records, of which 55 studies '
+             'met inclusion criteria. Analysis revealed that miR-184 '
+             'predominantly acts as a tumour suppressor in cancers such as '
+             'prostate and breast, whereas in liver and bone cancers, it '
+             'exhibits tumour-promoting activity. Certain cancer types, '
+             'including skin and pancreatic cancers, showed inconsistent or '
+             'context-dependent effects. Key molecular targets and pathways '
+             'influenced by miR-184, including c-MYC, caspases, and apoptotic '
+             'signalling, were highlighted. Overall, these findings '
+             'demonstrate that the function of miR-184 in cancer is '
+             'context-dependent, shaped by tissue type, molecular environment, '
+             'and cellular signalling networks.',
+ 'authors': ['Brandon Duff', 'Rasha Swadi'],
+ 'journal': 'Molecular biology reports',
+ 'pmid': '41379397',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'The dual role of miR-184 in cancer: a systematic review of '
+          'context-dependent regulation.'}
+
+================================================================================
+ARTICLE 49
+================================================================================
+{'abstract': 'Osteosarcoma (OS), the most common malignant bone tumor in '
+             'adolescents, exhibits marked genetic and cellular heterogeneity, '
+             'contributing to its resistance to conventional therapies. '
+             'Although surgical and chemotherapeutic interventions have '
+             'advanced, survival rates remain stagnant, especially for '
+             'patients with metastatic or treatment-refractory disease. Recent '
+             'multi-omic studies have uncovered distinct molecular subtypes '
+             'characterized by unique genomic, epigenomic, transcriptomic, and '
+             'tumor microenvironmental signatures. The integration of bulk and '
+             'single-cell transcriptomics, spatial profiling, epigenetic '
+             'mapping, and proteomic analyses has provided unprecedented '
+             'insights into the pathogenesis of OS and has facilitated the '
+             'identification of novel biomarkers. This review comprehensively '
+             'summarizes the current advances in the molecular subtyping of '
+             'OS, highlighting subtype-specific oncogenic drivers, their '
+             'implications in tumor progression and therapeutic resistance, '
+             'and the potential for precision medicine strategies tailored to '
+             'these molecular profiles.',
+ 'authors': ['Yu Xu',
+             'Yanfu Bai',
+             'Fan Yang',
+             'Binbin Yang',
+             'Zhisheng Huang',
+             'Lingling Su',
+             'Kuntao Peng'],
+ 'journal': 'Discover oncology',
+ 'pmid': '41379383',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'Decoding osteosarcoma from heterogeneity to precision therapy.'}
+
+================================================================================
+ARTICLE 50
+================================================================================
+{'abstract': 'MicroRNAs (miRNAs) exert a crucial role in the progression of '
+             'lung cancer (LC) and can serve as prognostic biomarkers. To '
+             'analyze the prognostic value of miR-3613-5p and its regulatory '
+             'effect on XPO6 in LC, this study was conducted. The expression '
+             'of miR-3613-5p and XPO6 was detected using qRT-PCR. The miRDB '
+             'database was employed to predict XPO6 as a target gene of '
+             'miR-3613-5p, and a dual-luciferase reporter assay was further '
+             'used to verify their interaction. Cell proliferation was '
+             'assessed using the CCK-8, while cell migration and invasion were '
+             'evaluated via the Transwell. miR-3613-5p was notably '
+             'overexpressed in LC, and its expression was notably associated '
+             'with smoking history, TNM stage, tumor size, and lymph node '
+             'metastasis. High miR-3613-5p expression was closely related to '
+             'poor survival in patients diagnosed with LC, and miR-3613-5p '
+             'could act as an independent prognostic factor. Database '
+             'prediction results indicated that miR-3613-5p directly targets '
+             'XPO6, which was further verified by the dual-luciferase reporter '
+             'assay. Additionally, XPO6 could offset the promoting effect of '
+             'miR-3613-5p. The miR-3613-5p-XPO6 axis may act as a LC '
+             'therapeutic target, and novel therapeutic strategies for LC '
+             'could be developed based on this axis.',
+ 'authors': ['Xingya Wang', 'Huichao Li', 'Xianzhen Wu'],
+ 'journal': 'Discover oncology',
+ 'pmid': '41379264',
+ 'publication_date': '2025-Dec-11',
+ 'title': 'miR-3613-5p promotes lung cancer progression by targeting and '
+          'regulating XPO6.'}
