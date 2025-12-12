@@ -148,14 +148,14 @@ def parse_articles(xml_data):
 # MAIN PIPELINE
 # =============================
 def main():
-    print("🔍 Fetching PMIDs...")
+    print("Fetching PMIDs...")
     pmids = fetch_pmids(QUERY, RETMAX)
     print(f"PMIDs retrieved: {len(pmids)}")
 
-    print("📥 Fetching article metadata...")
+    print("Fetching article metadata...")
     xml_data = fetch_article_details(pmids)
 
-    print("🧹 Parsing and cleaning articles...")
+    print("Parsing and cleaning articles...")
     articles = parse_articles(xml_data)
 
     # Enforce exactly 50 articles as required by the task
